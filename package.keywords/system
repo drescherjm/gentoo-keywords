@@ -2,14 +2,17 @@
 =app-portage/gentoolkit-0.3*
 =app-portage/layman-1.4*
 =dev-libs/mpfr-3.0*
-=dev-util/ccache-3.1
+=dev-util/ccache-3.1*
+=dev-util/cmake-2.8*
 =sys-apps/baselayout-2*
-=sys-apps/makedev-3.23.1
+=sys-apps/makedev-3.23*
 =sys-apps/net-tools-1.60*
 =sys-apps/openrc-0.7*
 =sys-apps/portage-2.2* **
 =sys-apps/sandbox-2.4*
+=sys-apps/sysvinit-2.88*
 =sys-devel/gcc-4.5*
+=sys-kernel/genkernel-3.4*
 =sys-libs/glibc-2.12*
 =sys-libs/zlib-1.2*
 app-portage/ufed
@@ -18,4 +21,3 @@ sys-devel/icecream
 sys-kernel/gentoo-sources
 sys-kernel/linux-headers
 sys-process/iotop
-~sys-apps/sysvinit-2.88
