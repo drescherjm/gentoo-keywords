@@ -9,6 +9,7 @@
 =sys-fs/device-mapper-1.02*
 =sys-fs/e2fsprogs-1.41*
 =sys-fs/lvm2-2.02*
+=sys-fs/mdadm-3.1*
 =sys-fs/multipath-tools-0.4*
 =sys-fs/udev-164*
 =sys-fs/udisks-1.0*
@@ -16,4 +17,3 @@
 =sys-fs/xfsprogs-3.0*
 =sys-fs/zfs-fuse-0.6*
 sys-fs/flashcache
-=sys-fs/mdadm-3.1*
