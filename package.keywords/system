@@ -21,3 +21,4 @@ sys-devel/icecream
 sys-kernel/gentoo-sources
 sys-kernel/linux-headers
 sys-process/iotop
+sys-libs/timezone-data
