@@ -1,6 +1,7 @@
 =app-arch/xz-utils-5.0*
 =app-portage/gentoolkit-0.3*
 =app-portage/layman-1.4*
+=dev-lang/perl-5.12*
 =dev-libs/mpfr-3.0*
 =dev-util/ccache-3.1*
 =dev-util/cmake-2.8*
