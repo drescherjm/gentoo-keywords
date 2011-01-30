@@ -1,6 +1,7 @@
 =net-fs/autofs-5*
 =net-fs/nfs-utils-1.2*
 =net-fs/samba-3.5*
+=net-nds/rpcbind-0.2*
 =sys-fs/aufs2-0_p20110120*
 =sys-fs/btrfs-9999*
 =sys-fs/btrfs-progs-0.19*
