@@ -17,4 +17,5 @@
 =sys-fs/xfsdump-3.0*
 =sys-fs/xfsprogs-3.0*
 =sys-fs/zfs-fuse-0.6*
+=sys-libs/e2fsprogs-libs-1.41*
 sys-fs/flashcache
