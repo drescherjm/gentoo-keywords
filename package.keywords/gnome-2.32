@@ -182,3 +182,4 @@
 =x11-themes/gnome-themes-2.32*
 =x11-themes/gtk-engines-2.20*
 =x11-wm/metacity-2.32*
+=media-libs/gst-plugins-base-0.10*
