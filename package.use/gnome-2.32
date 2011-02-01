@@ -1,5 +1,6 @@
+*/* cairo
 */* device-mapper
 */* policykit
+*/* sqlite
 gnome-base/gvfs gdu
 sys-fs/udev extras
-*/* sqlite
