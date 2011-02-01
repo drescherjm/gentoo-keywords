@@ -169,6 +169,7 @@
 =virtual/poppler-utils-0.12*
 =www-client/epiphany-2.32*
 =www-client/epiphany-extensions-2.32*
+=x11-libs/cairo-1.10*
 =x11-libs/gdk-pixbuf-2.22*
 =x11-libs/gtk+-2.22*
 =x11-libs/gtk+-2.99*
