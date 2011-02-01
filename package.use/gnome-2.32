@@ -1,7 +1,8 @@
+*/* X
 */* cairo
 */* device-mapper
+*/* jpeg
 */* policykit
 */* sqlite
 gnome-base/gvfs gdu
 sys-fs/udev extras
-*/* X
