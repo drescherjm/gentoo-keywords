@@ -1,6 +1,7 @@
 */* X
 */* cairo
 */* device-mapper
+*/* gtk
 */* jpeg
 */* policykit
 */* sqlite
