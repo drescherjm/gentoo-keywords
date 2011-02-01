@@ -21,6 +21,7 @@
 =dev-cpp/libxmlpp-2.32*
 =dev-lang/vala-0.10*
 =dev-libs/atk-1.32*
+=dev-libs/dbus-glib-0.92*
 =dev-libs/gdl-2.32*
 =dev-libs/glib-2.26*
 =dev-libs/glib-2.27*
@@ -185,4 +186,3 @@
 =x11-themes/gnome-themes-2.32*
 =x11-themes/gtk-engines-2.20*
 =x11-wm/metacity-2.32*
-=dev-libs/dbus-glib-0.92*
