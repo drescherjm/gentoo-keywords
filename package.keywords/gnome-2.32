@@ -5,6 +5,7 @@
 =app-admin/sabayon-2.32*
 =app-admin/system-tools-backends-2.8*
 =app-arch/file-roller-2.32*
+=app-arch/libarchive-2.8*
 =app-cdr/brasero-2.32*
 =app-crypt/seahorse-2.32*
 =app-crypt/seahorse-plugins-2.32*
@@ -122,6 +123,7 @@
 =mail-client/evolution-2.32*
 =media-gfx/eog-2.32*
 =media-libs/clutter-1.0*
+=media-libs/gst-plugins-base-0.10*
 =media-libs/gst-plugins-good-0.10*
 =media-libs/gstreamer-0.10*
 =media-libs/libgphoto2-2.4*
@@ -182,4 +184,3 @@
 =x11-themes/gnome-themes-2.32*
 =x11-themes/gtk-engines-2.20*
 =x11-wm/metacity-2.32*
-=media-libs/gst-plugins-base-0.10*
