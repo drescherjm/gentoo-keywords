@@ -123,6 +123,7 @@
 =media-gfx/eog-2.32*
 =media-libs/clutter-1.0*
 =media-libs/gst-plugins-good-0.10*
+=media-libs/gstreamer-0.10*
 =media-libs/libgphoto2-2.4*
 =media-plugins/gst-plugins-alsa-0.10*
 =media-plugins/gst-plugins-cdparanoia-0.10*
