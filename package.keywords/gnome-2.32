@@ -161,6 +161,7 @@
 =sys-apps/gnome-disk-utility-2.32*
 =sys-auth/consolekit-0.4.1*
 =sys-auth/polkit-0.96*
+=sys-auth/polkit-0.99*
 =sys-fs/udisks-1.0*
 =virtual/poppler-0.12*
 =virtual/poppler-glib-0.12*
