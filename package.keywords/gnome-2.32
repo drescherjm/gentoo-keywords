@@ -7,6 +7,7 @@
 =app-arch/file-roller-2.32*
 =app-arch/libarchive-2.8*
 =app-cdr/brasero-2.32*
+=app-cdr/cdrdao-1.2*
 =app-crypt/seahorse-2.32*
 =app-crypt/seahorse-plugins-2.32*
 =app-editors/gedit-2.32*
@@ -19,6 +20,7 @@
 =dev-cpp/libgnomemm-2.32*
 =dev-cpp/libgnomeuimm-2.32*
 =dev-cpp/libxmlpp-2.32*
+=dev-lang/orc-0.4*
 =dev-lang/vala-0.10*
 =dev-libs/atk-1.32*
 =dev-libs/dbus-glib-0.92*
@@ -164,6 +166,7 @@
 =sys-auth/polkit-0.96*
 =sys-auth/polkit-0.99*
 =sys-fs/udisks-1.0*
+=sys-power/upower-0.9*
 =virtual/poppler-0.12*
 =virtual/poppler-glib-0.12*
 =virtual/poppler-utils-0.12*
@@ -187,6 +190,3 @@
 =x11-themes/gnome-themes-2.32*
 =x11-themes/gtk-engines-2.20*
 =x11-wm/metacity-2.32*
-=dev-lang/orc-0.4*
-=sys-power/upower-0.9*
-=app-cdr/cdrdao-1.2*
