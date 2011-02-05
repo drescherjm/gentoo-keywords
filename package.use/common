@@ -1,3 +1,7 @@
-*/* qt3support dbus kde device-mapper
+*/* qt3support 
+*/* dbus 
+*/* kde 
+*/* device-mapper 
+*/* policykit
 =dev-vcs/subversion-1.6* -dso
 sys-fs/udev extras
