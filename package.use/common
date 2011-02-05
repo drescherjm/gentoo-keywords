@@ -1,3 +1,2 @@
+*/* qt3support dbus
 =dev-vcs/subversion-1.6* -dso
-x11-libs/qt-core qt3support
-x11-libs/qt-gui dbus
