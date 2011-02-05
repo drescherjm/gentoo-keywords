@@ -1,2 +1,3 @@
+*/* device-mapper
 =dev-vcs/subversion-1.6* -dso
 sys-fs/udev extras
