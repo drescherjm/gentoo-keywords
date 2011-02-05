@@ -119,7 +119,7 @@ kde-base/smoke:4.6
 # Polkit and other deps
 ~app-office/akonadi-server-1.5.0
 ~dev-libs/libattica-0.2.0
-~dev-libs/soprano-2.5.63_pre20101127
+~dev-libs/soprano-2.6.0
 ~kde-misc/polkit-kde-kcmodules-0.98_pre20101127
 ~sys-auth/polkit-kde-agent-0.99.0
 ~sys-auth/polkit-qt-0.99.0
@@ -301,8 +301,9 @@ app-admin/system-config-printer-common
 >=dev-libs/shared-desktop-ontologies-0.5
 # Unsure about that yet
 dev-python/pycups
-~dev-python/PyQt4-4.8.3
-~dev-python/sip-4.12
+>=dev-python/pygobject-2.21.5
+>=dev-python/PyQt4-4.8.3
+>=dev-python/sip-4.12.1
 ~net-dns/cagibi-0.1.1
 >=kde-misc/polkit-kde-kcmodules-0.98_pre
 ~sys-auth/polkit-0.99
