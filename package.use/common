@@ -1,3 +1,4 @@
 */* device-mapper
 =dev-vcs/subversion-1.6* -dso
+dev-libs/libgcrypt static-libs
 sys-fs/udev extras
