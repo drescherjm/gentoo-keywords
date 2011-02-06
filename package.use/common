@@ -5,5 +5,9 @@
 */* policykit
 */* semantic-desktop
 */* X
+*/* declarative
+*/* sql
+*/* svg
+*/* webkit
 =dev-vcs/subversion-1.6* -dso
 sys-fs/udev extras
