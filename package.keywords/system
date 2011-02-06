@@ -24,3 +24,4 @@ sys-kernel/gentoo-sources
 sys-kernel/linux-headers
 sys-libs/timezone-data
 sys-process/iotop
+=sys-apps/coreutils-8.10*
