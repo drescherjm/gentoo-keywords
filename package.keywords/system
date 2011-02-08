@@ -7,12 +7,14 @@
 =dev-util/ccache-3.1*
 =dev-util/cmake-2.8*
 =sys-apps/baselayout-2*
+=sys-apps/coreutils-8.10*
 =sys-apps/makedev-3.23*
 =sys-apps/net-tools-1.60*
 =sys-apps/openrc-0.7*
 =sys-apps/portage-2.2* **
 =sys-apps/sandbox-2.4*
 =sys-apps/sysvinit-2.88*
+=sys-apps/util-linux-2.18*
 =sys-devel/gcc-4.5*
 =sys-kernel/genkernel-3.4*
 =sys-libs/glibc-2.12*
@@ -24,4 +26,3 @@ sys-kernel/gentoo-sources
 sys-kernel/linux-headers
 sys-libs/timezone-data
 sys-process/iotop
-=sys-apps/coreutils-8.10*
