@@ -12,7 +12,7 @@
 =sys-apps/debianutils-3.4*
 =sys-apps/makedev-3.23*
 =sys-apps/net-tools-1.60*
-=sys-apps/openrc-0.7*
+=sys-apps/openrc-0.8*
 =sys-apps/portage-2.2* **
 =sys-apps/sandbox-2.4*
 =sys-apps/sysvinit-2.88*
