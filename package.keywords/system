@@ -19,6 +19,7 @@
 =sys-apps/util-linux-2.18*
 =sys-devel/gcc-4.5*
 =sys-kernel/genkernel-3.4*
+=sys-libs/cracklib-2.8*
 =sys-libs/glibc-2.12*
 =sys-libs/zlib-1.2*
 app-portage/ufed
@@ -28,4 +29,3 @@ sys-kernel/gentoo-sources
 sys-kernel/linux-headers
 sys-libs/timezone-data
 sys-process/iotop
-sys-libs/cracklib-2.8*
