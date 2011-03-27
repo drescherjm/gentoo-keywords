@@ -28,3 +28,4 @@ sys-kernel/gentoo-sources
 sys-kernel/linux-headers
 sys-libs/timezone-data
 sys-process/iotop
+sys-libs/cracklib-2.8*
