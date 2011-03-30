@@ -25,9 +25,9 @@
 =sys-libs/zlib-1.2*
 app-portage/ufed
 app-shells/bash-completion
+sys-apps/moreutils
 sys-devel/icecream
 sys-kernel/gentoo-sources
 sys-kernel/linux-headers
 sys-libs/timezone-data
 sys-process/iotop
-sys-apps/moreutils
