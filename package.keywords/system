@@ -1,5 +1,6 @@
 =app-admin/eselect-1.2.14*
 =app-arch/xz-utils-5.0*
+=app-portage/elogv-0.7*
 =app-portage/gentoolkit-0.3*
 =app-portage/layman-1.4*
 =app-shells/bash-completion-1.3*
@@ -25,9 +26,9 @@
 =sys-libs/zlib-1.2*
 app-portage/ufed
 app-shells/bash-completion
+sys-apps/moreutils
 sys-devel/icecream
 sys-kernel/gentoo-sources
 sys-kernel/linux-headers
 sys-libs/timezone-data
 sys-process/iotop
-sys-apps/moreutils
