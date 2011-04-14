@@ -12,6 +12,7 @@
 =sys-apps/baselayout-2*
 =sys-apps/coreutils-8.10*
 =sys-apps/debianutils-3.4*
+=sys-apps/diffutils-2.9*
 =sys-apps/makedev-3.23*
 =sys-apps/net-tools-1.60*
 =sys-apps/openrc-0.8*
@@ -26,10 +27,10 @@
 =sys-libs/zlib-1.2*
 app-portage/ufed
 app-shells/bash-completion
+sys-apps/gptfdisk
 sys-apps/moreutils
 sys-devel/icecream
 sys-kernel/gentoo-sources
 sys-kernel/linux-headers
 sys-libs/timezone-data
 sys-process/iotop
-=sys-apps/diffutils-2.9*
