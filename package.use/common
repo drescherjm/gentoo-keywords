@@ -2,6 +2,7 @@
 */* device-mapper
 */* ldap
 */* python
+*/* static-libs
 =dev-vcs/subversion-1.6* -dso
 dev-libs/libgcrypt static-libs
 sys-fs/udev extras
