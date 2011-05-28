@@ -1,5 +1,6 @@
 */* device-mapper
 */* bash-completion
+*/* static-libs
 =dev-vcs/subversion-1.6* -dso
 x11-libs/qt-core qt3support
 dev-libs/libgcrypt static-libs
