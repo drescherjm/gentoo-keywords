@@ -11,7 +11,7 @@
 =dev-util/cmake-2.8*
 =sys-apps/baselayout-2*
 =sys-apps/coreutils-8.10*
-=sys-apps/debianutils-3.4*
+=sys-apps/debianutils-4.0*
 =sys-apps/diffutils-2.9*
 =sys-apps/makedev-3.23*
 =sys-apps/net-tools-1.60*
