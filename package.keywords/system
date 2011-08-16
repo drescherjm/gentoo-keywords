@@ -1,4 +1,5 @@
 =app-admin/eselect-1.2.14*
+=app-admin/logrotate-3.8*
 =app-arch/xz-utils-5.0*
 =app-portage/elogv-0.7*
 =app-portage/gentoolkit-0.3*
@@ -9,6 +10,7 @@
 =dev-python/setuptools-0.6*
 =dev-util/ccache-3.1*
 =dev-util/cmake-2.8*
+=net-print/cups-1.4*
 =sys-apps/baselayout-2*
 =sys-apps/coreutils-8.10*
 =sys-apps/debianutils-4.0*
