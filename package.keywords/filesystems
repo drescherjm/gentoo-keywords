@@ -12,7 +12,7 @@
 =sys-fs/lvm2-2.02*
 =sys-fs/mdadm-3.1*
 =sys-fs/multipath-tools-0.4*
-=sys-fs/udev-167*
+=sys-fs/udev-171*
 =sys-fs/udisks-1.0*
 =sys-fs/xfsdump-3.0*
 =sys-fs/xfsprogs-3.0*
