@@ -1,7 +1,7 @@
-*/* gnome
+#*/* gnome
 */* device-mapper
 */* qt3support 
-*/* dbus 
+#*/* dbus 
 */* kde 
 */* device-mapper 
 */* policykit
