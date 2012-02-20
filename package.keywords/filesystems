@@ -1,6 +1,6 @@
 =net-fs/autofs-5*
 =net-fs/nfs-utils-1.2*
-=net-fs/samba-3.5*
+=net-fs/samba-3.6*
 =net-nds/rpcbind-0.2*
 =sys-fs/aufs2-0_p20110120*
 =sys-fs/btrfs-9999*
@@ -8,15 +8,15 @@
 =sys-fs/btrfs-progs-9999* **
 =sys-fs/cryptsetup-1.0*
 =sys-fs/device-mapper-1.02*
-=sys-fs/e2fsprogs-1.41*
+=sys-fs/e2fsprogs-1.42*
 =sys-fs/lvm2-2.02*
-=sys-fs/mdadm-3.1*
+=sys-fs/mdadm-3.2*
 =sys-fs/multipath-tools-0.4*
 =sys-fs/udev-171*
 =sys-fs/udisks-1.0*
 =sys-fs/xfsdump-3.0*
 =sys-fs/xfsprogs-3.0*
-=sys-fs/zfs-fuse-0.6*
-=sys-libs/e2fsprogs-libs-1.41*
+=sys-fs/zfs-fuse-0.7*
+=sys-libs/e2fsprogs-libs-1.42*
 sys-fs/flashcache
 sys-fs/lsscsi
