@@ -1,7 +1,24 @@
-*/* device-mapper
+*/* X
 */* bash-completion
+*/* dbus
+*/* declarative
+*/* device-mapper
+*/* kde
+*/* mng
+*/* opengl
+*/* png
+*/* policykit
+*/* qt3support
+*/* qt4
+*/* semantic-desktop
+*/* sql
+*/* svg
+*/* webkit
 */* static-libs
 =dev-vcs/subversion-1.6* -dso
+<<<<<<< HEAD:qt/package.use/common
 x11-libs/qt-core qt3support
+=======
+>>>>>>> kde:package.use/common
 dev-libs/libgcrypt static-libs
 sys-fs/udev extras
