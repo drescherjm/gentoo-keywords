@@ -1,0 +1,15 @@
+*/* X
+*/* dbus
+*/* declarative
+*/* kde
+*/* mng
+*/* opengl
+*/* png
+*/* policykit
+*/* qt3support
+*/* qt4
+*/* semantic-desktop
+*/* sql
+*/* svg
+*/* webkit
+x11-libs/qt-core qt3support
