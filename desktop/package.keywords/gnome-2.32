@@ -130,6 +130,7 @@
 =media-libs/gst-plugins-good-0.10*
 =media-libs/gstreamer-0.10*
 =media-libs/libgphoto2-2.4*
+=media-libs/quvi-0.2*
 =media-plugins/gst-plugins-alsa-0.10*
 =media-plugins/gst-plugins-cdparanoia-0.10*
 =media-plugins/gst-plugins-gio-0.10*
@@ -174,8 +175,7 @@
 =www-client/epiphany-extensions-2.32*
 =x11-libs/cairo-1.10*
 =x11-libs/gdk-pixbuf-2.22*
-=x11-libs/gtk+-2.22*
-=x11-libs/gtk+-2.99*
+=x11-libs/gtk+-2.24*
 =x11-libs/gtksourceview-2.10*
 =x11-libs/libnotify-0.5*
 =x11-libs/libwnck-2.32*
