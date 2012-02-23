@@ -1,0 +1,10 @@
+*/* X
+*/* cairo
+*/* device-mapper
+*/* gtk
+*/* jpeg
+*/* policykit
+*/* sqlite
+gnome-base/gvfs gdu
+sys-fs/udev extras
+net-libs/opal sip
