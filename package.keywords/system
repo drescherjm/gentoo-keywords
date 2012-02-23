@@ -23,7 +23,6 @@
 =sys-apps/sysvinit-2.88*
 =sys-apps/util-linux-2.20*
 =sys-devel/gcc-4.5*
-=sys-fs/udev-181*
 =sys-kernel/genkernel-3.4*
 =sys-libs/cracklib-2.8*
 =sys-libs/glibc-2.12*
