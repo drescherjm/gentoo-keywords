@@ -1,3 +1,4 @@
+=app-crypt/truecrypt-7.1*
 =net-fs/autofs-5*
 =net-fs/nfs-utils-1.2*
 =net-fs/samba-3.6*
@@ -20,4 +21,3 @@
 =sys-libs/e2fsprogs-libs-1.42*
 sys-fs/flashcache
 sys-fs/lsscsi
-=app-crypt/truecrypt-7.1*
