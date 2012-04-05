@@ -23,6 +23,7 @@
 =sys-apps/sandbox-2.4*
 =sys-apps/sysvinit-2.88*
 =sys-apps/util-linux-2.20*
+=sys-boot/grub-2.00* **
 =sys-devel/gcc-4.5*
 =sys-kernel/genkernel-3.4*
 =sys-libs/cracklib-2.8*
