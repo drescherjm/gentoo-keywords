@@ -1,2 +1,3 @@
 app-admin/webmin::jmd-gentoo-main
 =sys-apps/portage-2.2*
+=sys-kernel/gentoo-sources-3.3*

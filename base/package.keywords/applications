@@ -1,3 +1,12 @@
 =app-backup/bacula-5.2*
+=app-misc/pax-utils-0.4*
+=app-portage/eix-0.25*
+=dev-libs/gmp-5.0*
+=net-analyzer/nagios-nrpe-2.12*
+=net-analyzer/nagios-plugins-1.4*
+=net-analyzer/netperf-2.5*
+app-portage/eclean-kernel
+net-misc/rsync
 sys-apps/lshw
+sys-power/nut
 www-client/firefox

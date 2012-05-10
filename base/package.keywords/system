@@ -8,15 +8,19 @@
 =dev-lang/perl-5.12*
 =dev-libs/gmp-5.0.2*
 =dev-libs/mpfr-3.1*
+=dev-libs/openssl-1.0*
+=dev-python/pycrypto-2.5*
 =dev-python/setuptools-0.6*
 =dev-util/ccache-3.1*
 =dev-util/cmake-2.8*
+=net-libs/neon-0.29.6*
 =net-print/cups-1.5*
 =sys-apps/baselayout-2*
 =sys-apps/busybox-1.20*
 =sys-apps/coreutils-8.10*
 =sys-apps/debianutils-4.3*
 =sys-apps/diffutils-2.9*
+=sys-apps/kmod-8*
 =sys-apps/makedev-3.23*
 =sys-apps/net-tools-1.60*
 =sys-apps/openrc-0.9*
@@ -27,6 +31,7 @@
 =sys-boot/grub-2.00* **
 =sys-devel/gcc-4.5*
 =sys-kernel/genkernel-3.4*
+=sys-kernel/gentoo-sources-3.3* **
 =sys-libs/cracklib-2.8*
 =sys-libs/glibc-2.12*
 =sys-libs/zlib-1.2*

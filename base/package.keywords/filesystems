@@ -16,6 +16,7 @@
 =sys-fs/mdadm-3.2*
 =sys-fs/multipath-tools-0.4*
 =sys-fs/udev-182*
+=sys-fs/udev-init-scripts-10*
 =sys-fs/udisks-1.0*
 =sys-fs/xfsdump-3.0*
 =sys-fs/xfsprogs-3.0*
