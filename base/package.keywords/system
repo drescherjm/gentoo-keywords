@@ -32,7 +32,10 @@
 app-portage/ufed
 app-shells/bash-completion
 sys-apps/gptfdisk
+sys-apps/hdparm
+sys-apps/memtest86+
 sys-apps/moreutils
+sys-devel/gcc-config
 sys-devel/icecream
 sys-kernel/gentoo-sources
 sys-kernel/linux-headers
