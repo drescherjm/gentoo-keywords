@@ -2,6 +2,7 @@
 =app-misc/pax-utils-0.4*
 =app-portage/eix-0.25*
 =dev-libs/gmp-5.0*
+=dev-vcs/subversion-1.7*
 =net-analyzer/nagios-nrpe-2.12*
 =net-analyzer/nagios-plugins-1.4*
 =net-analyzer/netperf-2.5*
@@ -11,3 +12,4 @@ net-misc/rsync
 sys-apps/lshw
 sys-power/nut
 www-client/firefox
+dev-python/pymountboot
