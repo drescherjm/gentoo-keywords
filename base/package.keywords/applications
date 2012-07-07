@@ -13,3 +13,8 @@ sys-apps/lshw
 sys-power/nut
 www-client/firefox
 dev-python/pymountboot
+=dev-python/python-ldap-2.4*
+=app-arch/p7zip-9.20*
+=sys-power/apcupsd-3.14*
+=app-cdr/k3b-2.0*
+=net-misc/aria2-1.15*
