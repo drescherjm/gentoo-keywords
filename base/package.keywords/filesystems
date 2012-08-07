@@ -17,6 +17,7 @@
 =sys-fs/multipath-tools-0.4*
 =sys-fs/udev-182*
 =sys-fs/udev-186*
+=sys-fs/udev-187*
 =sys-fs/udev-init-scripts-10*
 =sys-fs/udev-init-scripts-12*
 =sys-fs/udisks-1.0*
