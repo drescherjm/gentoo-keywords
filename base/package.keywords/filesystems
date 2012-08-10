@@ -21,6 +21,7 @@
 =sys-fs/udev-init-scripts-10*
 =sys-fs/udev-init-scripts-12*
 =sys-fs/udev-init-scripts-14*
+=sys-fs/udev-init-scripts-16*
 =sys-fs/udisks-1.0*
 =sys-fs/xfsdump-3.0*
 =sys-fs/xfsprogs-3.0*
