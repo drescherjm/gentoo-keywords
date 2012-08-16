@@ -1,0 +1,14 @@
+=app-emulation/emul-linux-x86-baselibs-201205*
+=app-emulation/emul-linux-x86-compat-201205*
+=app-emulation/emul-linux-x86-cpplibs-201205*
+=app-emulation/emul-linux-x86-db-201205*
+=app-emulation/emul-linux-x86-gstplugins-201205*
+=app-emulation/emul-linux-x86-gtklibs-201205*
+=app-emulation/emul-linux-x86-medialibs-201205*
+=app-emulation/emul-linux-x86-motif-201205*
+=app-emulation/emul-linux-x86-opengl-201205*
+=app-emulation/emul-linux-x86-qtlibs-20120520*
+=app-emulation/emul-linux-x86-sdl-201205*
+=app-emulation/emul-linux-x86-soundlibs-201205*
+=app-emulation/emul-linux-x86-xlibs-201205*
+app-emulation/wine
