@@ -6,4 +6,4 @@
 =dev-vcs/subversion-1.6* -dso
 =dev-vcs/subversion-1.7* -dso perl
 dev-libs/libgcrypt static-libs
-sys-fs/udev extras
+sys-fs/udev extras gudev
