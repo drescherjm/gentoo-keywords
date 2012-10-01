@@ -9,7 +9,7 @@
 =sys-fs/btrfs-progs-9999* **
 =sys-fs/cryptsetup-1.0*
 =sys-fs/dd-rescue-1.25*
-=sys-fs/ddrescue-1.15*
+=sys-fs/ddrescue-1.16*
 =sys-fs/device-mapper-1.02*
 =sys-fs/e2fsprogs-1.42*
 =sys-fs/lvm2-2.02*
