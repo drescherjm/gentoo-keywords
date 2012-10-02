@@ -32,14 +32,16 @@
 =sys-apps/sandbox-2.4*
 =sys-apps/sysvinit-2.88*
 =sys-apps/util-linux-2.21*
+=sys-apps/util-linux-2.22*
 =sys-auth/polkit-0.107
 =sys-block/thin-provisioning-tools-0.1*
 =sys-boot/grub-2.00* **
 =sys-devel/gcc-4.5*
 =sys-devel/gcc-4.6*
 =sys-kernel/genkernel-3.4*
-=sys-kernel/gentoo-sources-3.3* **
 =sys-kernel/gentoo-sources-3.4* **
+=sys-kernel/gentoo-sources-3.5* **
+=sys-kernel/gentoo-sources-3.6* **
 =sys-libs/cracklib-2.8*
 =sys-libs/glibc-2.14*
 =sys-libs/libstdc++-v3-3.3*
