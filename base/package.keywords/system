@@ -47,6 +47,7 @@
 app-admin/syslog-ng
 app-portage/ufed
 app-shells/bash-completion
+net-analyzer/nagios-check_glsa2
 sys-apps/gptfdisk
 sys-apps/hdparm
 sys-apps/memtest86+
