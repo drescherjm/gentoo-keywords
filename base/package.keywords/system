@@ -30,6 +30,7 @@
 =sys-apps/openrc-0.10*
 =sys-apps/portage-2.2* **
 =sys-apps/sandbox-2.4*
+=sys-apps/shadow-4.1*
 =sys-apps/sysvinit-2.88*
 =sys-apps/util-linux-2.21*
 =sys-apps/util-linux-2.22*
