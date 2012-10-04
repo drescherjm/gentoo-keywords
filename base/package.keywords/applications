@@ -1,8 +1,11 @@
 =app-arch/p7zip-9.20*
 =app-backup/bacula-5.2*
 =app-cdr/k3b-2.0*
+=app-emulation/wine-1.5*
 =app-misc/pax-utils-0.4*
 =app-portage/eix-0.25*
+=dev-libs/apr-1.4*
+=dev-libs/apr-util-1.4*
 =dev-libs/boost-1.48*
 =dev-libs/boost-1.49*
 =dev-libs/gmp-5.0*
@@ -17,6 +20,7 @@
 =sys-power/apcupsd-3.14*
 app-admin/eclean-kernel
 app-admin/eselect-python
+app-admin/testdisk
 app-text/xlsx2csv
 dev-python/pymountboot
 net-analyzer/netperf
