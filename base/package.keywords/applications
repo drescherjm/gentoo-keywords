@@ -21,6 +21,7 @@ app-text/xlsx2csv
 dev-python/pymountboot
 net-analyzer/netperf
 net-misc/rsync
+net-print/cups-pdf
 sys-apps/lshw
 sys-power/nut
 www-client/firefox
