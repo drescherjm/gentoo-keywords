@@ -20,10 +20,10 @@
 =net-print/cups-1.5*
 =sys-apps/baselayout-2*
 =sys-apps/busybox-1.20*
-=sys-apps/coreutils-8.10*
+=sys-apps/coreutils-8.16*
 =sys-apps/debianutils-4.3*
 =sys-apps/diffutils-2.9*
-=sys-apps/kmod-8*
+=sys-apps/kmod-10*
 =sys-apps/kmod-9*
 =sys-apps/makedev-3.23*
 =sys-apps/net-tools-1.60*
@@ -36,7 +36,7 @@
 =sys-apps/util-linux-2.21*
 =sys-apps/util-linux-2.22*
 =sys-auth/pambase-201204*
-=sys-auth/polkit-0.107
+=sys-auth/polkit-0.107*
 =sys-block/thin-provisioning-tools-0.1*
 =sys-boot/grub-2.00* **
 =sys-devel/gcc-4.5*
