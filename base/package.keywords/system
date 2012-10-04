@@ -15,6 +15,8 @@
 =dev-python/setuptools-0.6*
 =dev-util/ccache-3.1*
 =dev-util/cmake-2.8*
+=net-dns/dnrd-2.20*
+=net-fs/nfs4-acl-tools-0.3*
 =net-libs/gnutls-3.0*
 =net-libs/neon-0.29.6*
 =net-print/cups-1.5*
@@ -39,12 +41,14 @@
 =sys-auth/polkit-0.107*
 =sys-block/thin-provisioning-tools-0.1*
 =sys-boot/grub-2.00* **
+=sys-devel/bin86-0.16*
 =sys-devel/gcc-4.5*
 =sys-devel/gcc-4.6*
 =sys-kernel/genkernel-3.4*
 =sys-kernel/gentoo-sources-3.4* **
 =sys-kernel/gentoo-sources-3.5* **
 =sys-kernel/gentoo-sources-3.6* **
+=sys-kernel/vanilla-sources-3.6*
 =sys-libs/cracklib-2.8*
 =sys-libs/glibc-2.14*
 =sys-libs/libstdc++-v3-3.3*
