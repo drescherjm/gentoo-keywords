@@ -40,6 +40,7 @@
 =sys-apps/sysvinit-2.88*
 =sys-apps/util-linux-2.21*
 =sys-apps/util-linux-2.22*
+=sys-auth/nss-pam-ldapd-0.8*
 =sys-auth/pam_ldap-186*
 =sys-auth/pambase-201204*
 =sys-auth/polkit-0.107*
