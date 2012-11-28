@@ -30,5 +30,6 @@
 =sys-fs/xfsprogs-3.0*
 =sys-fs/zfs-fuse-0.7*
 =sys-libs/e2fsprogs-libs-1.42*
+=virtual/udev-180*
 sys-fs/flashcache
 sys-fs/lsscsi
