@@ -1,5 +1,6 @@
 =app-admin/eselect-1.3*
 =app-admin/logrotate-3.8*
+=app-admin/webmin-1.600* **
 =app-arch/xz-utils-5.0*
 =app-portage/elogv-0.7*
 =app-portage/gentoolkit-0.3*
@@ -11,11 +12,13 @@
 =dev-libs/libgcrypt-1.5*
 =dev-libs/mpfr-3.1*
 =dev-libs/openssl-1.0*
+=dev-perl/Getopt-GUI-Long-0.920*
 =dev-python/pycrypto-2.5*
 =dev-python/setuptools-0.6*
 =dev-util/ccache-3.1*
 =dev-util/cmake-2.8*
 =net-dns/dnrd-2.20*
+=net-dns/dnssec-tools-1.14*
 =net-fs/nfs4-acl-tools-0.3*
 =net-libs/gnutls-3.0*
 =net-libs/neon-0.29.6*
@@ -37,6 +40,8 @@
 =sys-apps/sysvinit-2.88*
 =sys-apps/util-linux-2.21*
 =sys-apps/util-linux-2.22*
+=sys-auth/nss-pam-ldapd-0.8*
+=sys-auth/pam_ldap-186*
 =sys-auth/pambase-201204*
 =sys-auth/polkit-0.107*
 =sys-block/thin-provisioning-tools-0.1*

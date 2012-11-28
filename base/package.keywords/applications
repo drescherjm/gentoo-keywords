@@ -17,12 +17,14 @@
 =net-analyzer/nagios-plugins-1.4*
 =net-analyzer/netperf-2.5*
 =net-misc/aria2-1.15*
+=sys-apps/smartmontools-6.0*
 =sys-power/apcupsd-3.14*
 app-admin/eclean-kernel
 app-admin/eselect-python
 app-admin/testdisk
 app-text/xlsx2csv
 dev-python/pymountboot
+dev-python/python-exec
 net-analyzer/netperf
 net-misc/rsync
 net-print/cups-pdf
