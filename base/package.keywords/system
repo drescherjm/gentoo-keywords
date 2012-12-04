@@ -28,8 +28,8 @@
 =sys-apps/coreutils-8.16*
 =sys-apps/debianutils-4.3*
 =sys-apps/diffutils-2.9*
+=sys-apps/kmod-11*
 =sys-apps/kmod-10*
-=sys-apps/kmod-9*
 =sys-apps/makedev-3.23*
 =sys-apps/net-tools-1.60*
 =sys-apps/openrc-0.10*
