@@ -31,3 +31,4 @@ net-print/cups-pdf
 sys-apps/lshw
 sys-power/nut
 www-client/firefox
+sys-apps/hwids
