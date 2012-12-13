@@ -2,6 +2,7 @@
 =app-admin/logrotate-3.8*
 =app-admin/webmin-1.600* **
 =app-arch/xz-utils-5.0*
+=app-emulation/lxc-0.8.0_rc2*
 =app-portage/elogv-0.7*
 =app-portage/gentoolkit-0.3*
 =app-portage/layman-1.4*
@@ -28,9 +29,9 @@
 =sys-apps/coreutils-8.16*
 =sys-apps/debianutils-4.3*
 =sys-apps/diffutils-2.9*
-=sys-apps/kmod-12*
-=sys-apps/kmod-11*
 =sys-apps/kmod-10*
+=sys-apps/kmod-11*
+=sys-apps/kmod-12*
 =sys-apps/makedev-3.23*
 =sys-apps/net-tools-1.60*
 =sys-apps/openrc-0.10*
