@@ -2,7 +2,9 @@
 =net-fs/autofs-5*
 =net-fs/nfs-utils-1.2*
 =net-nds/rpcbind-0.2*
-=sys-fs/aufs2-0_p20110120*
+=sys-fs/aufs2-2.1*
+=sys-fs/aufs2-2.2*
+=sys-fs/aufs3-3_p2013*
 =sys-fs/btrfs-9999*
 =sys-fs/btrfs-progs-0.19*
 =sys-fs/btrfs-progs-9999* **
@@ -14,13 +16,10 @@
 =sys-fs/lvm2-2.02*
 =sys-fs/mdadm-3.2*
 =sys-fs/multipath-tools-0.4*
-=sys-fs/udev-188*
-=sys-fs/udev-189*
-=sys-fs/udev-192*
-=sys-fs/udev-193*
-=sys-fs/udev-196*
+=sys-fs/udev-197*
 =sys-fs/udev-198*
 =sys-fs/udev-200*
+=sys-fs/udev-201*
 =sys-fs/udev-init-scripts-23*
 =sys-fs/udev-init-scripts-24*
 =sys-fs/udev-init-scripts-25*
