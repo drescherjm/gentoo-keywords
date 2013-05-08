@@ -19,6 +19,7 @@
 =sys-fs/udev-197*
 =sys-fs/udev-200*
 =sys-fs/udev-202*
+=sys-fs/udev-203*
 =sys-fs/udev-init-scripts-24*
 =sys-fs/udev-init-scripts-25*
 =sys-fs/udisks-1.0*
