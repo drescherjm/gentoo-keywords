@@ -1,5 +1,6 @@
 =app-crypt/truecrypt-7.1*
 =net-fs/autofs-5*
+=net-fs/cifs-utils-6.0*
 =net-fs/nfs-utils-1.2*
 =net-nds/rpcbind-0.2*
 =sys-fs/aufs2-2.1*
