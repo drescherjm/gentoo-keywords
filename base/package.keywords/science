@@ -1,2 +1,3 @@
 sci-libs/gdcm
-sci-libs/itk::jmd-gentoo-main 
+=sci-libs/itk-4.2*
+=sci-libs/vtk-5.10*
