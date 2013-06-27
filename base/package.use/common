@@ -8,3 +8,4 @@
 dev-libs/libgcrypt static-libs
 sys-fs/udev extras gudev
 =app-emulation/lxc-0.9.0* -python python_targets_python3_2
+sys-libs/talloc python
