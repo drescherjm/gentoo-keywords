@@ -33,6 +33,7 @@
 =sys-apps/diffutils-2.9*
 =sys-apps/kmod-12*
 =sys-apps/kmod-13*
+=sys-apps/kmod-14*
 =sys-apps/makedev-3.23*
 =sys-apps/net-tools-1.60*
 =sys-apps/openrc-0.11*
@@ -55,6 +56,7 @@
 =sys-kernel/genkernel-3.4*
 =sys-kernel/gentoo-sources-3.8* **
 =sys-kernel/gentoo-sources-3.9* **
+=sys-kernel/gentoo-sources-3.10* **
 =sys-kernel/vanilla-sources-3.9*
 =sys-libs/cracklib-2.8*
 =sys-libs/glibc-2.15*
