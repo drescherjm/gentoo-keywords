@@ -1,3 +1,4 @@
 =net-fs/samba-3.6*
 =sys-libs/talloc-2.0*
+=sys-libs/tevent-0.9*
 =sys-libs/tdb-1.2*
