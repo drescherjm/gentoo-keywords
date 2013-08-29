@@ -1,4 +1,5 @@
 =app-admin/eselect-1.3*
+=app-admin/eselect-bashcomp-1.3*
 =app-admin/hddtemp-0.3*
 =app-admin/logrotate-3.8*
 =app-admin/webmin-1.630* **
