@@ -1,3 +1,4 @@
+
 =app-admin/eselect-1.3*
 =app-admin/eselect-bashcomp-1.3*
 =app-admin/hddtemp-0.3*
@@ -25,18 +26,20 @@
 =net-fs/nfs4-acl-tools-0.3*
 =net-libs/gnutls-3.0*
 =net-libs/neon-0.29.6*
+=net-misc/netifrc-0.1*
 =net-print/cups-1.5*
 =sys-apps/baselayout-2*
 =sys-apps/busybox-1.20*
 =sys-apps/coreutils-8.16*
 =sys-apps/debianutils-4.3*
 =sys-apps/diffutils-2.9*
-=sys-apps/kmod-12*
 =sys-apps/kmod-13*
 =sys-apps/kmod-14*
+=sys-apps/kmod-15*
 =sys-apps/makedev-3.23*
 =sys-apps/net-tools-1.60*
 =sys-apps/openrc-0.11*
+=sys-apps/openrc-0.12*
 =sys-apps/portage-2.2* **
 =sys-apps/sandbox-2.5*
 =sys-apps/sandbox-2.6*
