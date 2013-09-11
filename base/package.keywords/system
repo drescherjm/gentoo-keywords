@@ -21,6 +21,7 @@
 =dev-python/setuptools-0.6*
 =dev-util/ccache-3.1*
 =dev-util/cmake-2.8*
+=dev-vcs/git-1.8.3*
 =net-dns/dnrd-2.20*
 =net-dns/dnssec-tools-1.14*
 =net-fs/nfs4-acl-tools-0.3*
