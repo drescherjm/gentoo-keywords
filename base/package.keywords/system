@@ -6,6 +6,7 @@
 =app-admin/webmin-1.630* **
 =app-arch/xz-utils-5.0*
 =app-emulation/lxc-0.8.0_rc2*
+=app-misc/pax-utils-0.7*
 =app-portage/elogv-0.7*
 =app-portage/gentoolkit-0.3*
 =app-portage/layman-2.0*
@@ -18,6 +19,7 @@
 =dev-libs/openssl-1.0*
 =dev-perl/Getopt-GUI-Long-0.920*
 =dev-python/pycrypto-2.5*
+=dev-python/pyelftools-0.21*
 =dev-python/setuptools-0.6*
 =dev-util/ccache-3.1*
 =dev-util/cmake-2.8*
@@ -78,6 +80,7 @@ sys-apps/moreutils
 sys-devel/gcc-config
 sys-devel/gdb
 sys-devel/icecream
+sys-kernel/genkernel-next
 sys-kernel/gentoo-sources
 sys-kernel/linux-headers
 sys-libs/timezone-data
