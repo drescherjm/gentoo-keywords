@@ -24,13 +24,14 @@
 =sys-fs/udisks-1.0*
 =sys-fs/xfsdump-3.0*
 =sys-fs/xfsprogs-3.0*
-=sys-fs/zfs-0.6.1* **
+=sys-fs/zfs-0.6* **
 =sys-fs/zfs-fuse-0.7*
-=sys-fs/zfs-kmod-0.6.1* **
-=sys-kernel/spl-0.6.1* **
+=sys-fs/zfs-kmod-0.6* **
+=sys-kernel/spl-0.6* **
 =sys-libs/e2fsprogs-libs-1.42*
 =virtual/udev-180*
 =virtual/udev-196*
 =virtual/udev-206*
 sys-fs/flashcache
 sys-fs/lsscsi
+=sys-block/thin-provisioning-tools-0.2*
