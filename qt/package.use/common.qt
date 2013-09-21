@@ -13,3 +13,4 @@
 */* svg
 */* webkit
 x11-libs/qt-core qt3support
+dev-python/PyQt4 svg declarative script

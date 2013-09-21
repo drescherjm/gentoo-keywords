@@ -27,7 +27,8 @@
 =net-dns/dnrd-2.20*
 =net-dns/dnssec-tools-1.14*
 =net-fs/nfs4-acl-tools-0.3*
-=net-libs/gnutls-3.0*
+=net-libs/gnutls-3.1*
+=net-libs/gnutls-3.2*
 =net-libs/neon-0.29.6*
 =net-misc/netifrc-0.1*
 =net-print/cups-1.5*
