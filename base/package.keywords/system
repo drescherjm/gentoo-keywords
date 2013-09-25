@@ -42,6 +42,7 @@
 =sys-apps/kmod-13*
 =sys-apps/kmod-14*
 =sys-apps/kmod-15*
+=sys-apps/lm_sensors-3.3*
 =sys-apps/makedev-3.23*
 =sys-apps/net-tools-1.60*
 =sys-apps/openrc-0.11*
