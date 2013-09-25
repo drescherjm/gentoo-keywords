@@ -4,6 +4,7 @@
 =app-admin/hddtemp-0.3*
 =app-admin/logrotate-3.8*
 =app-admin/webmin-1.630* **
+=app-arch/cfv-1.18*
 =app-arch/xz-utils-5.0*
 =app-emulation/lxc-0.8.0_rc2*
 =app-misc/pax-utils-0.7*
@@ -11,7 +12,7 @@
 =app-portage/gentoolkit-0.3*
 =app-portage/layman-2.0*
 =app-shells/bash-completion-2.1*
-=dev-lang/perl-5.12*
+=dev-lang/perl-5.16*
 =dev-libs/glib-2.32*
 =dev-libs/gmp-5.0.2*
 =dev-libs/libgcrypt-1.5*
@@ -61,10 +62,7 @@
 =sys-devel/gcc-4.6*
 =sys-devel/gcc-4.7*
 =sys-kernel/genkernel-3.4*
-=sys-kernel/gentoo-sources-3.10* **
-=sys-kernel/gentoo-sources-3.8* **
-=sys-kernel/gentoo-sources-3.9* **
-=sys-kernel/vanilla-sources-3.9*
+=sys-kernel/gentoo-sources-3.11* **
 =sys-libs/cracklib-2.8*
 =sys-libs/glibc-2.15*
 =sys-libs/libstdc++-v3-3.3*
@@ -86,4 +84,3 @@ sys-kernel/gentoo-sources
 sys-kernel/linux-headers
 sys-libs/timezone-data
 sys-process/iotop
-=app-arch/cfv-1.18*
