@@ -11,14 +11,13 @@
 =dev-libs/boost-1.49*
 =dev-libs/gmp-5.0*
 =dev-python/python-ldap-2.4*
-=dev-util/boost-build-1.48*
-=dev-util/boost-build-1.49*
+=dev-util/boost-build-1.55*
 =dev-vcs/subversion-1.7*
 =net-analyzer/nagios-nrpe-2.12*
 =net-analyzer/nagios-plugins-1.4*
 =net-analyzer/netperf-2.5*
 =net-misc/aria2-1.15*
-=sys-apps/smartmontools-6.0*
+=sys-apps/smartmontools-6.2*
 =sys-power/apcupsd-3.14*
 app-admin/eclean-kernel
 app-admin/eselect-python
