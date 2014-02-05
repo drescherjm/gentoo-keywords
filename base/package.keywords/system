@@ -1,8 +1,8 @@
-
 =app-admin/eselect-1.3*
 =app-admin/eselect-bashcomp-1.3*
 =app-admin/hddtemp-0.3*
 =app-admin/logrotate-3.8*
+=app-admin/sudo-1.8*
 =app-admin/webmin-1.630* **
 =app-arch/cfv-1.18*
 =app-arch/xz-utils-5.0*
@@ -31,6 +31,7 @@
 =net-fs/nfs4-acl-tools-0.3*
 =net-libs/gnutls-3.1*
 =net-libs/gnutls-3.2*
+=net-libs/libtirpc-0.2.4*
 =net-libs/neon-0.29.6*
 =net-misc/netifrc-0.1*
 =net-print/cups-1.5*
@@ -39,9 +40,9 @@
 =sys-apps/coreutils-8.16*
 =sys-apps/debianutils-4.3*
 =sys-apps/diffutils-2.9*
-=sys-apps/kmod-13*
 =sys-apps/kmod-14*
 =sys-apps/kmod-15*
+=sys-apps/kmod-16*
 =sys-apps/lm_sensors-3.3*
 =sys-apps/makedev-3.23*
 =sys-apps/net-tools-1.60*
@@ -52,7 +53,6 @@
 =sys-apps/sandbox-2.6*
 =sys-apps/shadow-4.1*
 =sys-apps/sysvinit-2.88*
-=sys-apps/util-linux-2.22*
 =sys-apps/util-linux-2.23*
 =sys-auth/nss-pam-ldapd-0.8*
 =sys-auth/nss_ldap-265*
@@ -60,14 +60,16 @@
 =sys-auth/pambase-201204*
 =sys-auth/polkit-0.107*
 =sys-block/thin-provisioning-tools-0.1*
-=sys-boot/grub-2.00* **
+=sys-boot/grub-2.02* **
 =sys-devel/bin86-0.16*
+=sys-devel/distcc-3.2* **
 =sys-devel/gcc-4.6*
 =sys-devel/gcc-4.7*
+=sys-devel/gcc-4.8*
 =sys-kernel/genkernel-3.4*
-=sys-kernel/gentoo-sources-3.11* **
+=sys-kernel/gentoo-sources-3.13* **
 =sys-libs/cracklib-2.8*
-=sys-libs/glibc-2.15*
+=sys-libs/glibc-2.17*
 =sys-libs/libstdc++-v3-3.3*
 =sys-libs/zlib-1.2*
 app-admin/syslog-ng
