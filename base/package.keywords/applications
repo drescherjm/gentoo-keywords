@@ -32,3 +32,8 @@ sys-apps/hwids
 sys-apps/lshw
 sys-power/nut
 www-client/firefox
+sys-apps/hwids
+=dev-java/icedtea-bin-7.2*
+=dev-java/java-config-2.2*
+sys-apps/baselayout-java
+app-admin/eselect-java
