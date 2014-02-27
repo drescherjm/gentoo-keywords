@@ -67,7 +67,7 @@
 =sys-devel/gcc-4.7*
 =sys-devel/gcc-4.8*
 =sys-kernel/genkernel-3.4*
-=sys-kernel/gentoo-sources-3.13* **
+=sys-kernel/gentoo-sources-3.13*
 =sys-libs/cracklib-2.8*
 =sys-libs/glibc-2.17*
 =sys-libs/libstdc++-v3-3.3*
