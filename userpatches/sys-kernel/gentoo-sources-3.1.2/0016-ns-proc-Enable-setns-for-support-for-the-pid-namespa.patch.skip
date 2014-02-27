@@ -1,0 +1,30 @@
+From cd4a779f985405338500cdd830e71d8dde7c6576 Mon Sep 17 00:00:00 2001
+From: Eric W. Biederman <ebiederm@aristanetworks.com>
+Date: Mon, 8 Aug 2011 15:31:56 -0500
+Subject: [PATCH 16/16] ns proc: Enable setns for support for the pid namespace
+
+Signed-off-by: Eric W. Biederman <ebiederm@xmission.com>
+---
+ kernel/pid_namespace.c |    3 ---
+ 1 files changed, 0 insertions(+), 3 deletions(-)
+
+diff --git a/kernel/pid_namespace.c b/kernel/pid_namespace.c
+index 2e0331e..79bf459 100644
+--- a/kernel/pid_namespace.c
++++ b/kernel/pid_namespace.c
+@@ -246,12 +246,9 @@ static void pidns_put(void *ns)
+ 
+ static int pidns_install(struct nsproxy *nsproxy, void *ns)
+ {
+-	return -EINVAL;
+-#ifdef notyet
+ 	put_pid_ns(nsproxy->pid_ns);
+ 	nsproxy->pid_ns = get_pid_ns(ns);
+ 	return 0;
+-#endif
+ }
+ 
+ static unsigned int pidns_inum(void *vns)
+-- 
+1.7.4.1
+
