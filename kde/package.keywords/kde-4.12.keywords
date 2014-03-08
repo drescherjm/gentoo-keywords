@@ -47,6 +47,8 @@
 <kde-base/kdebase-runtime-meta-4.12.50
 <kde-base/kdebugdialog-4.12.50
 <kde-base/kdesu-4.12.50
+<kde-base/kde-base-artwork-4.12.50
+<kde-base/kde-wallpapers-4.12.50
 <kde-base/kdontchangethehostname-4.12.50
 <kde-base/keditfiletype-4.12.50
 <kde-base/kfile-4.12.50
@@ -76,10 +78,8 @@
 <kde-base/freespacenotifier-4.11.50
 <kde-base/kcheckpass-4.11.50
 <kde-base/kcminit-4.11.50
-<kde-base/kde-base-artwork-4.11.50
 <kde-base/kdebase-cursors-4.11.50
 <kde-base/kdebase-startkde-4.11.50
-<kde-base/kde-wallpapers-4.11.50
 <kde-base/kdm-4.11.50
 <kde-base/kephal-4.11.50
 <kde-base/khotkeys-4.11.50
@@ -233,6 +233,8 @@
 <kde-base/akonadiconsole-4.12.50
 <kde-base/akregator-4.12.50
 <kde-base/blogilo-4.12.50
+<kde-base/calendarjanitor-4.12.50
+<kde-base/contactthemeeditor-4.12.50
 <kde-base/kabcclient-4.12.50
 <kde-base/kaddressbook-4.12.50
 <kde-base/kalarm-4.12.50
@@ -261,6 +263,7 @@
 <kde-base/kde-dev-utils-4.12.50
 <kde-base/kdesdk-kioslaves-4.12.50
 <kde-base/kdesdk-meta-4.12.50
+<kde-base/kdesdk-strigi-analyzer-4.12.50
 <kde-base/kompare-4.12.50
 <kde-base/libkomparediff2-4.12.50
 <kde-base/lokalize-4.12.50
@@ -280,7 +283,7 @@
 <kde-base/kgpg-4.12.50
 <kde-base/kremotecontrol-4.12.50
 <kde-base/ktimer-4.12.50
-<kde-base/kwallet-4.12.50
+<kde-base/kwalletmanager-4.12.50
 <kde-base/print-manager-4.12.50
 <kde-base/superkaramba-4.12.50
 <kde-base/sweeper-4.12.50
@@ -296,5 +299,8 @@
 >=dev-libs/libattica-0.4.2
 >=dev-libs/shared-desktop-ontologies-0.11.0
 >=kde-misc/networkmanagement-0.9.0.9
+>=media-libs/lcms-2.5-r1
+>=media-libs/libraw-0.16.0_beta1-r1
+>=media-libs/tiff-4.0.3-r6
 >=net-libs/libkgapi-2.0.1
 >=net-misc/networkmanager-0.9.8.2
