@@ -1,0 +1,16 @@
+0001-proc-Use-d_set_d_op-in-the-namespace-file-descriptor.patch
+0002-proc-Fix-the-proc-access-checks-to-namespace-files.patch
+0003-proc-Generalize-proc-inode-allocation.patch
+0004-proc-Usable-inode-numbers-for-the-namespace-file-des.patch
+0005-proc-Add-a-test-for-proc-namespace-inodes.patch
+0006-ns-proc-Add-support-for-the-mount-namespace.patch
+0007-ns-proc-Add-support-for-the-user-namespace.patch
+0008-ns-proc-Add-support-for-the-pid-namespace.patch
+0009-pidns-Fix-wait-for-zombies-to-be-reaped-in-zap_pid_n.patch
+0010-procfs-Use-the-proc-generic-infrastructure-for-proc-.patch
+0011-procfs-Don-t-cache-a-pid-in-the-root-inode.patch
+0012-pidns-Use-task_active_pid_ns-where-appropriate.patch
+0013-pidns-Consolidate-initialzation-of-special-init-task.patch
+0014-pidns-Don-t-allow-new-processes-in-a-dead-pid-namesp.patch
+0015-pidns-Support-unsharing-the-pid-namespace.patch
+0016-ns-proc-Enable-setns-for-support-for-the-pid-namespa.patch

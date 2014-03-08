@@ -1,0 +1,29 @@
+From e2989f42d3fe64837849b304d960db9f76d79c59 Mon Sep 17 00:00:00 2001
+From: Eric W. Biederman <ebiederm@xmission.com>
+Date: Sat, 18 Jun 2011 23:34:09 -0700
+Subject: [PATCH 01/16] proc: Use d_set_d_op in the namespace file descriptor code
+
+Without this none of the pid_dentry_operations methods will
+be called and we can slowly leak namespace file descriptors.
+
+Signed-off-by: Eric W. Biederman <ebiederm@xmission.com>
+---
+ fs/proc/namespaces.c |    2 +-
+ 1 files changed, 1 insertions(+), 1 deletions(-)
+
+diff --git a/fs/proc/namespaces.c b/fs/proc/namespaces.c
+index be177f7..d6c078e 100644
+--- a/fs/proc/namespaces.c
++++ b/fs/proc/namespaces.c
+@@ -54,7 +54,7 @@ static struct dentry *proc_ns_instantiate(struct inode *dir,
+ 	ei->ns_ops    = ns_ops;
+ 	ei->ns	      = ns;
+ 
+-	dentry->d_op = &pid_dentry_operations;
++	d_set_d_op(dentry, &pid_dentry_operations);
+ 	d_add(dentry, inode);
+ 	/* Close the race of the process dying before we return the dentry */
+ 	if (pid_revalidate(dentry, NULL))
+-- 
+1.7.4.1
+

@@ -1,0 +1,12 @@
+diff -Nuar zfs-zfs-0.6.2.orig/config/kernel-bdi-setup-and-register.m4 zfs-zfs-0.6.2/config/kernel-bdi-setup-and-register.m4
+--- zfs-zfs-0.6.2.orig/config/kernel-bdi-setup-and-register.m4	2014-02-21 22:28:36.320008551 +0100
++++ zfs-zfs-0.6.2/config/kernel-bdi-setup-and-register.m4	2014-02-21 22:29:15.620753663 +0100
+@@ -10,7 +10,7 @@
+ 	ZFS_LINUX_TRY_COMPILE_SYMBOL([
+ 		#include <linux/backing-dev.h>
+ 	], [
+-		bdi_setup_and_register(NULL, NULL, 0);
++		(void) bdi_setup_and_register(NULL, NULL, 0);
+ 	], [bdi_setup_and_register], [mm/backing-dev.c], [
+ 		AC_MSG_RESULT(yes)
+ 		AC_DEFINE(HAVE_BDI_SETUP_AND_REGISTER, 1,
