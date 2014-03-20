@@ -1,3 +1,4 @@
+#=sys-kernel/gentoo-sources-3.13*
 =app-admin/eselect-1.3*
 =app-admin/eselect-bashcomp-1.3*
 =app-admin/hddtemp-0.3*
@@ -40,6 +41,7 @@
 =sys-apps/coreutils-8.16*
 =sys-apps/debianutils-4.3*
 =sys-apps/diffutils-2.9*
+=sys-apps/gentoo-functions-0.3*
 =sys-apps/kmod-14*
 =sys-apps/kmod-15*
 =sys-apps/kmod-16*
@@ -67,7 +69,6 @@
 =sys-devel/gcc-4.7*
 =sys-devel/gcc-4.8*
 =sys-kernel/genkernel-3.4*
-=sys-kernel/gentoo-sources-3.13*
 =sys-libs/cracklib-2.8*
 =sys-libs/glibc-2.17*
 =sys-libs/libstdc++-v3-3.3*
@@ -85,6 +86,7 @@ sys-devel/gcc-config
 sys-devel/gdb
 sys-devel/icecream
 sys-kernel/genkernel-next
+sys-kernel/genkernel-next **
 sys-kernel/gentoo-sources
 sys-kernel/linux-headers
 sys-libs/timezone-data
