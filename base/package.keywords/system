@@ -74,6 +74,7 @@
 =sys-libs/libstdc++-v3-3.3*
 =sys-libs/zlib-1.2*
 =virtual/libudev-208*
+=virtual/libgudev-208*
 app-admin/syslog-ng
 app-admin/webmin::jmd-gentoo-main
 app-portage/ufed
