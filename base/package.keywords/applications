@@ -4,6 +4,7 @@
 =app-emulation/wine-1.5*
 =app-misc/pax-utils-0.4*
 =app-portage/eix-0.25*
+=dev-lang/python-exec-2.0*
 =dev-libs/apr-1.4*
 =dev-libs/apr-util-1.4*
 =dev-libs/boost-1.48*
@@ -28,7 +29,7 @@ dev-python/python-exec
 net-analyzer/netperf
 net-misc/rsync
 net-print/cups-pdf
+sys-apps/hwids
 sys-apps/lshw
 sys-power/nut
 www-client/firefox
-sys-apps/hwids
