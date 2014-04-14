@@ -1,0 +1,22 @@
+--- mythplugins/mytharchive/mytharchive/mythburn.cpp.orig	2012-08-01 10:02:35.985684905 -0400
++++ mythplugins/mytharchive/mytharchive/mythburn.cpp	2012-08-01 10:03:43.105687603 -0400
+@@ -718,7 +718,7 @@
+         a->size = query.value(6).toLongLong();
+         a->filename = query.value(7).toString();
+         a->hasCutlist = (query.value(8).toInt() == 1);
+-        a->useCutlist = false;
++        a->useCutlist = a->hasCutlist;
+         a->duration = query.value(9).toInt();
+         a->cutDuration = query.value(10).toInt();
+         a->videoWidth = query.value(11).toInt();
+--- mythplugins/mytharchive/mytharchive/recordingselector.cpp.orig	2012-08-01 10:00:41.712346981 -0400
++++ mythplugins/mytharchive/mytharchive/recordingselector.cpp	2012-08-01 10:01:18.209015114 -0400
+@@ -378,7 +378,7 @@
+         a->size = p->GetFilesize();
+         a->filename = p->GetPlaybackURL(false, true);
+         a->hasCutlist = p->HasCutlist();
+-        a->useCutlist = false;
++        a->useCutlist = a->hasCutlist;
+         a->duration = 0;
+         a->cutDuration = 0;
+         a->videoWidth = 0;

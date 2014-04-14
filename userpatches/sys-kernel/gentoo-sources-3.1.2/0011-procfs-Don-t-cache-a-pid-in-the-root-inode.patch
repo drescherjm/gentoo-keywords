@@ -1,0 +1,80 @@
+From 29f870688d53429ea0478a064f6f175b74c71516 Mon Sep 17 00:00:00 2001
+From: Eric W. Biederman <ebiederm@xmission.com>
+Date: Sat, 10 Jul 2010 15:23:34 -0700
+Subject: [PATCH 11/16] procfs: Don't cache a pid in the root inode.
+
+Now that we have s_fs_info pointing to our pid namespace
+the original reason for the proc root inode having a struct
+pid is gone.
+
+Caching a pid in the root inode has led to some complicated
+code.  Now that we don't need the struct pid, just remove it all.
+
+Signed-off-by: Eric W. Biederman <ebiederm@xmission.com>
+---
+ fs/proc/base.c |   11 +----------
+ fs/proc/root.c |    8 --------
+ 2 files changed, 1 insertions(+), 18 deletions(-)
+
+diff --git a/fs/proc/base.c b/fs/proc/base.c
+index 2e0b487..8754b76 100644
+--- a/fs/proc/base.c
++++ b/fs/proc/base.c
+@@ -2934,18 +2934,11 @@ static int proc_pid_fill_cache(struct file *filp, void *dirent, filldir_t filldi
+ /* for the /proc/ directory itself, after non-process stuff has been done */
+ int proc_pid_readdir(struct file * filp, void * dirent, filldir_t filldir)
+ {
+-	unsigned int nr;
+-	struct task_struct *reaper;
+ 	struct tgid_iter iter;
+ 	struct pid_namespace *ns;
+ 
+ 	if (filp->f_pos >= PID_MAX_LIMIT + TGID_OFFSET)
+-		goto out_no_task;
+-	nr = filp->f_pos - FIRST_PROCESS_ENTRY;
+-
+-	reaper = get_proc_task(filp->f_path.dentry->d_inode);
+-	if (!reaper)
+-		goto out_no_task;
++		goto out;
+ 
+ 	ns = filp->f_dentry->d_sb->s_fs_info;
+ 	iter.task = NULL;
+@@ -2961,8 +2954,6 @@ int proc_pid_readdir(struct file * filp, void * dirent, filldir_t filldir)
+ 	}
+ 	filp->f_pos = PID_MAX_LIMIT + TGID_OFFSET;
+ out:
+-	put_task_struct(reaper);
+-out_no_task:
+ 	return 0;
+ }
+ 
+diff --git a/fs/proc/root.c b/fs/proc/root.c
+index 77b8192..cf4c922 100644
+--- a/fs/proc/root.c
++++ b/fs/proc/root.c
+@@ -42,7 +42,6 @@ static struct dentry *proc_mount(struct file_system_type *fs_type,
+ 	int err;
+ 	struct super_block *sb;
+ 	struct pid_namespace *ns;
+-	struct proc_inode *ei;
+ 
+ 	if (flags & MS_KERNMOUNT)
+ 		ns = (struct pid_namespace *)data;
+@@ -64,13 +63,6 @@ static struct dentry *proc_mount(struct file_system_type *fs_type,
+ 		sb->s_flags |= MS_ACTIVE;
+ 	}
+ 
+-	ei = PROC_I(sb->s_root->d_inode);
+-	if (!ei->pid) {
+-		rcu_read_lock();
+-		ei->pid = get_pid(find_pid_ns(1, ns));
+-		rcu_read_unlock();
+-	}
+-
+ 	return dget(sb->s_root);
+ }
+ 
+-- 
+1.7.4.1
+

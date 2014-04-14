@@ -1,0 +1,14 @@
+--- libs/libmythtv/ThreadedFileWriter.cpp.orig	2013-10-22 12:10:38.405649327 -0400
++++ libs/libmythtv/ThreadedFileWriter.cpp	2013-10-22 12:12:09.015652966 -0400
+@@ -333,9 +333,9 @@
+         // fdatasync tries to avoid updating metadata, but will in
+         // practice always update metadata if any data is written
+         // as the file will usually have grown.
+-        fdatasync(fd);
++        //fdatasync(fd);
+ #else
+-        fsync(fd);
++        //fsync(fd);
+ #endif
+     }
+ }
