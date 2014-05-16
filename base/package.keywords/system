@@ -60,7 +60,7 @@
 =sys-auth/pam_ldap-186*
 =sys-auth/pambase-201204*
 =sys-auth/polkit-0.107*
-=sys-block/thin-provisioning-tools-0.1*
+=sys-block/thin-provisioning-tools-0.3*
 =sys-boot/grub-2.02* **
 =sys-devel/bin86-0.16*
 =sys-devel/distcc-3.2* **
