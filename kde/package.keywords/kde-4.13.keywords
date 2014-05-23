@@ -307,3 +307,6 @@
 >=media-libs/tiff-4.0.3-r6
 >=net-libs/libkgapi-2.0.1
 >=net-misc/networkmanager-0.9.8.2
+=kde-base/zeroconf-ioslave-4.13*
+=kde-base/kqtquickcharts-4.13*
+=kde-base/artikulate-4.13*
