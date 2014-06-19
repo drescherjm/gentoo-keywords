@@ -26,6 +26,7 @@
 =dev-python/setuptools-0.6*
 =dev-util/ccache-3.1*
 =dev-util/cmake-2.8*
+=dev-util/pkgconfig-0.28*
 =dev-vcs/git-1.8.3*
 =net-dns/dnrd-2.20*
 =net-dns/dnssec-tools-1.14*
@@ -64,17 +65,23 @@
 =sys-boot/grub-2.02* **
 =sys-devel/bin86-0.16*
 =sys-devel/distcc-3.2* **
+=sys-devel/flex-2.5*
 =sys-devel/gcc-4.6*
 =sys-devel/gcc-4.7*
 =sys-devel/gcc-4.8*
 =sys-kernel/genkernel-3.4*
 =sys-libs/cracklib-2.8*
+=sys-libs/cracklib-2.9*
+=sys-libs/db-4.8*
 =sys-libs/glibc-2.17*
 =sys-libs/libstdc++-v3-3.3*
 =sys-libs/pam-1.1.8*
 =sys-libs/zlib-1.2*
 =virtual/libgudev-208*
+=virtual/libintl-0*
 =virtual/libudev-208*
+=virtual/pam-0*
+=virtual/pkgconfig-0*
 app-admin/syslog-ng
 app-admin/webmin::jmd-gentoo-main
 app-portage/ufed
