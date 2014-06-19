@@ -71,6 +71,7 @@
 =sys-libs/cracklib-2.8*
 =sys-libs/glibc-2.17*
 =sys-libs/libstdc++-v3-3.3*
+=sys-libs/pam-1.1.8*
 =sys-libs/zlib-1.2*
 =virtual/libgudev-208*
 =virtual/libudev-208*
