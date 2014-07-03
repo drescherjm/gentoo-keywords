@@ -4,12 +4,8 @@
 =net-fs/nfs-utils-1.2*
 =net-nds/rpcbind-0.2*
 =sys-block/thin-provisioning-tools-0.2*
-=sys-fs/aufs2-2.1*
-=sys-fs/aufs2-2.2*
-=sys-fs/aufs3-3_p2013*
-=sys-fs/btrfs-9999*
-=sys-fs/btrfs-progs-0.20*
-=sys-fs/btrfs-progs-9999* **
+=sys-fs/aufs3-3_p2014*
+=sys-fs/btrfs-progs-3.14*
 =sys-fs/cryptsetup-1.0*
 =sys-fs/dd-rescue-1.25*
 =sys-fs/ddrescue-1.16*
