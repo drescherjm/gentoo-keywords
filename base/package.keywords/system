@@ -42,7 +42,7 @@
 =sys-apps/coreutils-8.16*
 =sys-apps/debianutils-4.3*
 =sys-apps/diffutils-2.9*
-=sys-apps/gentoo-functions-0.3*
+=sys-apps/gentoo-functions-0.7*
 =sys-apps/kmod-14*
 =sys-apps/kmod-15*
 =sys-apps/kmod-16*
@@ -100,4 +100,3 @@ sys-kernel/gentoo-sources
 sys-kernel/linux-headers
 sys-libs/timezone-data
 sys-process/iotop
-=virtual/pam-0*
