@@ -37,6 +37,7 @@
 =net-libs/neon-0.29.6*
 =net-misc/netifrc-0.1*
 =net-print/cups-1.5*
+=perl-core/Version-Requirements-0.101.22*
 =sys-apps/baselayout-2*
 =sys-apps/busybox-1.20*
 =sys-apps/coreutils-8.16*
