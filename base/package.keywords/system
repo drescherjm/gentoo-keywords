@@ -22,6 +22,7 @@
 =dev-libs/openssl-1.0*
 =dev-perl/Authen-Libwrap-0.220*
 =dev-perl/Getopt-GUI-Long-0.920*
+=dev-perl/Getopt-GUI-Long-0.930*
 =dev-python/pycrypto-2.5*
 =dev-python/pyelftools-0.21*
 =dev-python/setuptools-0.6*
@@ -49,7 +50,7 @@
 =sys-apps/lm_sensors-3.3*
 =sys-apps/makedev-3.23*
 =sys-apps/net-tools-1.60*
-=sys-apps/openrc-0.12*
+=sys-apps/openrc-0.13*
 =sys-apps/portage-2.2* **
 =sys-apps/sandbox-2.5*
 =sys-apps/sandbox-2.6*
@@ -66,7 +67,6 @@
 =sys-devel/bin86-0.16*
 =sys-devel/distcc-3.2* **
 =sys-devel/flex-2.5*
-=sys-devel/gcc-4.6*
 =sys-devel/gcc-4.7*
 =sys-devel/gcc-4.8*
 =sys-kernel/genkernel-3.4*
