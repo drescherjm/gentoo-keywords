@@ -15,9 +15,10 @@
 =sys-fs/lvm2-2.02*
 =sys-fs/mdadm-3.2*
 =sys-fs/multipath-tools-0.4*
-=sys-fs/udev-212*
 =sys-fs/udev-214*
+=sys-fs/udev-216*
 =sys-fs/udev-init-scripts-26*
+=sys-fs/udev-init-scripts-27*
 =sys-fs/udisks-1.0*
 =sys-fs/udisks-2.1*
 =sys-fs/xfsdump-3.1*
@@ -27,6 +28,7 @@
 =sys-fs/zfs-kmod-0.6* **
 =sys-kernel/spl-0.6* **
 =sys-libs/e2fsprogs-libs-1.42*
+=sys-process/procps-3.3.9*
 =virtual/udev-208*
 sys-fs/flashcache
 sys-fs/lsscsi

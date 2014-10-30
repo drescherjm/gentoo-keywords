@@ -4,7 +4,7 @@
 =app-admin/logrotate-3.8*
 =app-admin/sudo-1.8*
 app-admin/syslog-ng
-=app-admin/webmin-1.630* **
+=app-admin/webmin-1.690* **
 app-admin/webmin::jmd-gentoo-main
 =app-arch/cfv-1.18*
 =app-arch/xz-utils-5.0*
@@ -16,6 +16,7 @@ app-admin/webmin::jmd-gentoo-main
 app-portage/ufed
 app-shells/bash-completion
 =app-shells/bash-completion-2.1*
+=dev-db/lmdb-0.9*
 =dev-lang/perl-5.16*
 =dev-libs/glib-2.32*
 =dev-libs/gmp-5.0.2*
@@ -24,6 +25,7 @@ app-shells/bash-completion
 =dev-libs/openssl-1.0*
 =dev-perl/Authen-Libwrap-0.220*
 =dev-perl/Getopt-GUI-Long-0.920*
+=dev-perl/Getopt-GUI-Long-0.930*
 =dev-python/pycrypto-2.5*
 =dev-python/pyelftools-0.21*
 =dev-python/setuptools-0.6*
@@ -31,6 +33,7 @@ app-shells/bash-completion
 =dev-util/cmake-2.8*
 =dev-util/pkgconfig-0.28*
 =dev-vcs/git-1.8.3*
+=dev-vcs/git-1.9*
 net-analyzer/nagios-check_glsa2
 =net-dns/dnrd-2.20*
 =net-dns/dnssec-tools-1.14*
@@ -41,6 +44,7 @@ net-analyzer/nagios-check_glsa2
 =net-libs/neon-0.29.6*
 =net-misc/netifrc-0.1*
 =net-print/cups-1.5*
+=net-print/cups-1.7*
 =perl-core/podlators-2.5*
 =perl-core/Version-Requirements-0.101.22*
 =sys-apps/baselayout-2*
@@ -51,15 +55,13 @@ net-analyzer/nagios-check_glsa2
 =sys-apps/gentoo-functions-0.7*
 sys-apps/gptfdisk
 sys-apps/hdparm
-=sys-apps/kmod-14*
-=sys-apps/kmod-15*
-=sys-apps/kmod-16*
+=sys-apps/kmod-18*
 =sys-apps/lm_sensors-3.3*
 =sys-apps/makedev-3.23*
 sys-apps/memtest86+
 sys-apps/moreutils
 =sys-apps/net-tools-1.60*
-=sys-apps/openrc-0.12*
+=sys-apps/openrc-0.13*
 =sys-apps/portage-2.2* **
 =sys-apps/sandbox-2.5*
 =sys-apps/sandbox-2.6*
@@ -76,7 +78,6 @@ sys-apps/moreutils
 =sys-devel/bin86-0.16*
 =sys-devel/distcc-3.2* **
 =sys-devel/flex-2.5*
-=sys-devel/gcc-4.6*
 =sys-devel/gcc-4.7*
 =sys-devel/gcc-4.8*
 sys-devel/gcc-config
