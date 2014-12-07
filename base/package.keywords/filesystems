@@ -7,11 +7,13 @@
 =sys-fs/aufs3-3_p2014*
 =sys-fs/btrfs-progs-3.14*
 =sys-fs/cryptsetup-1.0*
-=sys-fs/dd-rescue-1.25*
 =sys-fs/ddrescue-1.16*
 =sys-fs/ddrescue-1.17*
+=sys-fs/dd-rescue-1.25*
 =sys-fs/device-mapper-1.02*
 =sys-fs/e2fsprogs-1.42*
+sys-fs/flashcache
+sys-fs/lsscsi
 =sys-fs/lvm2-2.02*
 =sys-fs/mdadm-3.2*
 =sys-fs/multipath-tools-0.4*
@@ -30,5 +32,3 @@
 =sys-libs/e2fsprogs-libs-1.42*
 =sys-process/procps-3.3.9*
 =virtual/udev-208*
-sys-fs/flashcache
-sys-fs/lsscsi
