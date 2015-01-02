@@ -9,6 +9,7 @@ app-admin/testdisk
 =app-misc/pax-utils-0.4*
 =app-portage/eix-0.30*
 app-text/xlsx2csv
+=dev-db/postgresql-9.3*
 =dev-java/icedtea-bin-7.2*
 =dev-java/java-config-2.2*
 =dev-lang/python-exec-2.0*
