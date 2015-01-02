@@ -40,8 +40,7 @@ net-analyzer/nagios-check_glsa2
 =net-dns/dnrd-2.20*
 =net-dns/dnssec-tools-1.14*
 =net-fs/nfs4-acl-tools-0.3*
-=net-libs/gnutls-3.1*
-=net-libs/gnutls-3.2*
+=net-libs/gnutls-3.3*
 =net-libs/libtirpc-0.2.4*
 =net-libs/neon-0.29.6*
 =net-misc/netifrc-0.1*
