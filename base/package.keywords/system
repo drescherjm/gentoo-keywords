@@ -4,7 +4,7 @@
 =app-admin/logrotate-3.8*
 =app-admin/sudo-1.8*
 app-admin/syslog-ng
-=app-admin/webmin-1.690* **
+=app-admin/webmin-1.730* **
 app-admin/webmin::jmd-gentoo-main
 =app-arch/cfv-1.18*
 =app-arch/xz-utils-5.0*
