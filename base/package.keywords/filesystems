@@ -6,7 +6,7 @@
 =net-nds/rpcbind-0.2*
 =sys-block/thin-provisioning-tools-0.2*
 =sys-fs/aufs3-3_p2014*
-=sys-fs/btrfs-progs-3.14*
+=sys-fs/btrfs-progs-3.18*
 =sys-fs/cryptsetup-1.0*
 =sys-fs/dd-rescue-1.25*
 =sys-fs/ddrescue-1.16*
