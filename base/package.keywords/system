@@ -14,6 +14,7 @@ app-admin/webmin::jmd-gentoo-main
 =app-portage/gentoolkit-0.3*
 =app-portage/layman-2.0*
 app-portage/ufed
+=app-shells/bash-4.3*
 =app-shells/bash-4.3_p30*
 app-shells/bash-completion
 =app-shells/bash-completion-2.1*
