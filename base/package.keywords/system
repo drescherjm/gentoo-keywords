@@ -15,7 +15,6 @@ app-admin/webmin::jmd-gentoo-main
 =app-portage/layman-2.0*
 app-portage/ufed
 =app-shells/bash-4.3*
-=app-shells/bash-4.3_p30*
 app-shells/bash-completion
 =app-shells/bash-completion-2.1*
 =app-shells/gentoo-bashcomp-2014*
@@ -35,8 +34,7 @@ app-shells/bash-completion
 =dev-util/ccache-3.1*
 =dev-util/cmake-2.8*
 =dev-util/pkgconfig-0.28*
-=dev-vcs/git-1.8.3*
-=dev-vcs/git-1.9*
+=dev-vcs/git-2.0*
 net-analyzer/nagios-check_glsa2
 =net-dns/dnrd-2.20*
 =net-dns/dnssec-tools-1.14*
@@ -45,7 +43,6 @@ net-analyzer/nagios-check_glsa2
 =net-libs/libtirpc-0.2.4*
 =net-libs/neon-0.29.6*
 =net-misc/netifrc-0.1*
-=net-print/cups-1.5*
 =net-print/cups-1.7*
 =perl-core/podlators-2.5*
 =perl-core/Version-Requirements-0.101.22*
@@ -89,12 +86,11 @@ sys-devel/icecream
 sys-kernel/genkernel-next
 sys-kernel/genkernel-next **
 sys-kernel/gentoo-sources
-#=sys-kernel/gentoo-sources-3.13*
 sys-kernel/linux-headers
 =sys-libs/cracklib-2.8*
 =sys-libs/cracklib-2.9*
 =sys-libs/db-4.8*
-=sys-libs/glibc-2.17*
+=sys-libs/glibc-2.19*
 =sys-libs/libstdc++-v3-3.3*
 =sys-libs/pam-1.1.8*
 =sys-libs/readline-6.3*
