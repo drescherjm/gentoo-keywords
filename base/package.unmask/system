@@ -1,6 +1,5 @@
 =app-admin/webmin-1.600*
 =sys-apps/portage-2.2*
-=sys-apps/portage-2.2.16
 =sys-devel/distcc-3.2*
 =sys-fs/mdadm-3.2*
 app-admin/webmin::jmd-gentoo-main
