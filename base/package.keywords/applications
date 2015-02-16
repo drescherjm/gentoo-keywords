@@ -26,6 +26,7 @@ app-admin/eclean-kernel
 app-admin/eselect-java
 app-admin/eselect-python
 app-admin/testdisk
+app-antivirus/clamav
 app-text/xlsx2csv
 dev-python/pymountboot
 dev-python/python-exec
