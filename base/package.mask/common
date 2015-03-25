@@ -1,1 +1,2 @@
 <app-admin/logrotate-3.8.0
+=app-emulation/lxc-1.1*
