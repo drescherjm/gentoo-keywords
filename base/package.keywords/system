@@ -94,6 +94,7 @@ sys-apps/hdparm
 sys-apps/memtest86+
 sys-apps/moreutils
 sys-devel/gcc-config
+sys-devel/gcc:4.9
 sys-devel/gdb
 sys-devel/icecream
 sys-kernel/genkernel-next
