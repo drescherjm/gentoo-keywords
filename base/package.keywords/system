@@ -38,6 +38,7 @@
 =net-libs/libtirpc-0.2.4*
 =net-libs/neon-0.29.6*
 =net-misc/netifrc-0.1*
+=net-nds/smbldap-tools-0.9*
 =net-print/cups-1.7*
 =perl-core/Version-Requirements-0.101.22*
 =perl-core/podlators-2.5*
