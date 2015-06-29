@@ -14,6 +14,7 @@
 =dev-libs/gmp-5.0*
 =dev-python/python-ldap-2.4*
 =dev-util/boost-build-1.57*
+=dev-util/perf-3.15*
 =dev-vcs/subversion-1.7*
 =net-analyzer/nagios-plugins-2.0*
 =net-analyzer/netperf-2.5*
