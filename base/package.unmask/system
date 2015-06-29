@@ -3,3 +3,4 @@
 =sys-devel/distcc-3.2*
 =sys-fs/mdadm-3.2*
 app-admin/webmin::jmd-gentoo-main
+=app-eselect/eselect-python-20140125*
