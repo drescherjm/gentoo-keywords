@@ -1,17 +1,17 @@
 =app-crypt/truecrypt-7.1*
 =dev-libs/libev-4.18*
 =net-fs/autofs-5*
-=net-fs/cifs-utils-6.3*
-=net-fs/nfs-utils-1.2*
+=net-fs/cifs-utils-6.4*
+=net-fs/nfs-utils-1.3*
 =net-nds/rpcbind-0.2*
 =sys-block/thin-provisioning-tools-0.2*
-=sys-fs/aufs3-3_p2014*
+=sys-fs/aufs4-0*
 =sys-fs/btrfs-progs-3.18*
-=sys-fs/btrfs-progs-4.0
+=sys-fs/btrfs-progs-4.0*
 =sys-fs/cryptsetup-1.0*
-=sys-fs/ddrescue-1.16*
 =sys-fs/ddrescue-1.17*
-=sys-fs/dd-rescue-1.25*
+=sys-fs/ddrescue-1.19*
+=sys-fs/dd-rescue-1.46*
 =sys-fs/device-mapper-1.02*
 =sys-fs/e2fsprogs-1.42*
 sys-fs/flashcache
@@ -19,10 +19,9 @@ sys-fs/lsscsi
 =sys-fs/lvm2-2.02*
 =sys-fs/mdadm-3.2*
 =sys-fs/multipath-tools-0.4*
-=sys-fs/udev-214*
-=sys-fs/udev-216*
-=sys-fs/udev-init-scripts-26*
+=sys-fs/udev-220*
 =sys-fs/udev-init-scripts-27*
+=sys-fs/udev-init-scripts-29*
 =sys-fs/udisks-1.0*
 =sys-fs/udisks-2.1*
 =sys-fs/xfsdump-3.1*
@@ -33,4 +32,4 @@ sys-fs/lsscsi
 =sys-kernel/spl-0.6* **
 =sys-libs/e2fsprogs-libs-1.42*
 =sys-process/procps-3.3.9*
-=virtual/udev-208*
+=virtual/udev-215*
