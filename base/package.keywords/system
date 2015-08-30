@@ -23,8 +23,10 @@
 =dev-libs/mpfr-3.1*
 =dev-libs/openssl-1.0*
 =dev-perl/Authen-Libwrap-0.220*
+=dev-perl/Crypt-OpenSSL-DSA-0.150*
 =dev-perl/Getopt-GUI-Long-0.920*
 =dev-perl/Getopt-GUI-Long-0.930*
+=dev-perl/Net-DNS-SEC-0.220*
 =dev-python/pycrypto-2.5*
 =dev-python/pyelftools-0.21*
 =dev-python/setuptools-0.6*
