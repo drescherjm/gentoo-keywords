@@ -59,6 +59,7 @@ net-analyzer/nagios-check_glsa2
 =sys-apps/gentoo-functions-0.7*
 sys-apps/gptfdisk
 sys-apps/hdparm
+sys-apps/hwids
 =sys-apps/kmod-18*
 =sys-apps/lm_sensors-3.3*
 =sys-apps/makedev-3.23*
