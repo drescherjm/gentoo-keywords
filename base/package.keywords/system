@@ -114,3 +114,4 @@ sys-kernel/gentoo-sources
 sys-kernel/linux-headers
 sys-libs/timezone-data
 sys-process/iotop
+=dev-python/pymountboot-0.2*
