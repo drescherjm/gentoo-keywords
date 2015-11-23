@@ -1,5 +1,6 @@
 =app-arch/p7zip-9.38*
 =sys-process/htop-1.0*
+app-antivirus/clamav-unofficial-sigs
 app-benchmarks/filebench
 app-shells/hstr
 sys-apps/progress
