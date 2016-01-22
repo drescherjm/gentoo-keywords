@@ -92,6 +92,7 @@
 =sys-libs/zlib-1.2*
 =sys-power/nut-2.7*
 =virtual/libgudev-208*
+=virtual/libgudev-230*
 =virtual/libintl-0*
 =virtual/libudev-208*
 =virtual/pam-0*
