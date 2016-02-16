@@ -10,4 +10,5 @@
 app-antivirus/clamav-unofficial-sigs
 app-benchmarks/filebench
 app-shells/hstr
+app-text/xlsx2csv-0.7*
 sys-apps/progress
