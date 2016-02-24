@@ -1,5 +1,8 @@
+=app-admin/sysstat-11.2*
 =app-antivirus/clamav-0.99*
 =app-arch/p7zip-9.38*
+=app-backup/bacula-7.4*
+=app-text/xlsx2csv-0.7*
 =dev-util/boost-build-1.57*
 =net-analyzer/netperf-2.7*
 =net-analyzer/nrpe-2.15*
