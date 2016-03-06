@@ -1,0 +1,14 @@
+# sort them later to the appropriate sets
+~kde-apps/kfind-5.9999
+~kde-apps/libkcddb-5.9999
+~kde-apps/libkonq-5.9999
+~kde-apps/okular-5.9999
+~kde-misc/yakuake-9999
+@kde-baseapps-live
+@kdeadmin-live
+@kdeedu-live
+@kdegames-live
+@kdegraphics-live
+@kdemultimedia-live
+@kdesdk-live
+@kdeutils-live
