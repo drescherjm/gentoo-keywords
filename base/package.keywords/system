@@ -5,7 +5,7 @@
 =app-admin/hddtemp-0.3*
 =app-admin/logrotate-3.8*
 =app-admin/sudo-1.8*
-=app-admin/webmin-1.770* **
+=app-admin/webmin-1.791* **
 =app-arch/cfv-1.18*
 =app-arch/xz-utils-5.0*
 =app-emulation/lxc-1.0*
@@ -35,7 +35,7 @@
 =dev-python/pymountboot-0.2*
 =dev-python/setuptools-0.6*
 =dev-util/ccache-3.1*
-=dev-util/cmake-3.3*
+=dev-util/cmake-3.4*
 =dev-util/pkgconfig-0.28*
 =dev-vcs/git-2.0*
 =net-dns/dnrd-2.20*
