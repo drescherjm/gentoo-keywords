@@ -76,7 +76,8 @@
 =sys-devel/distcc-3.2* **
 =sys-devel/flex-2.5*
 =sys-devel/gcc-4.9*
-=sys-kernel/genkernel-3.5*
+=sys-kernel/genkernel-3.4* **
+=sys-kernel/genkernel-3.5.0* **
 =sys-libs/cracklib-2.9*
 =sys-libs/db-4.8*
 =sys-libs/efivar-0.20*
