@@ -6,17 +6,14 @@
 =net-nds/rpcbind-0.2*
 =sys-block/thin-provisioning-tools-0.2*
 =sys-fs/aufs-util4-0*
-=sys-fs/btrfs-progs-4.1*
-=sys-fs/btrfs-progs-4.2*
+=sys-fs/btrfs-progs-4.5*
 =sys-fs/cryptsetup-1.0*
-=sys-fs/ddrescue-1.17*
-=sys-fs/ddrescue-1.19*
 =sys-fs/dd-rescue-1.46*
+=sys-fs/ddrescue-1.21*
 =sys-fs/e2fsprogs-1.42*
-sys-fs/flashcache
-sys-fs/lsscsi
 =sys-fs/lvm2-2.02*
 =sys-fs/mdadm-3.3*
+=sys-fs/mdadm-3.4*
 =sys-fs/multipath-tools-0.4*
 =sys-fs/udev-224*
 =sys-fs/udev-init-scripts-27*
@@ -32,3 +29,5 @@ sys-fs/lsscsi
 =sys-libs/e2fsprogs-libs-1.42*
 =sys-process/procps-3.3.9*
 =virtual/udev-217*
+sys-fs/flashcache
+sys-fs/lsscsi
