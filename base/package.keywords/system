@@ -19,7 +19,8 @@
 =app-shells/gentoo-bashcomp-2014*
 =dev-db/lmdb-0.9*
 =dev-lang/perl-5.20*
-=dev-libs/boost-1.57*
+=dev-lang/perl-5.22*
+=dev-libs/boost-1.60*
 =dev-libs/glib-2.32*
 =dev-libs/gmp-5.0.2*
 =dev-libs/libgcrypt-1.5*
