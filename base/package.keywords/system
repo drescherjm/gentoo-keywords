@@ -31,11 +31,11 @@
 =dev-python/pycrypto-2.5*
 =dev-python/pyelftools-0.21*
 =dev-python/pymountboot-0.2*
-=dev-python/setuptools-19*
+=dev-python/setuptools-20*
 =dev-util/ccache-3.2*
-=dev-util/cmake-3.4*
+=dev-util/cmake-3.5*
 =dev-util/pkgconfig-0.28*
-=dev-vcs/git-2.8*
+=dev-vcs/git-2.9*
 =net-dns/dnrd-2.20*
 =net-dns/dnssec-tools-1.14*
 =net-fs/nfs4-acl-tools-0.3*
