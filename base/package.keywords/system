@@ -63,8 +63,8 @@
 =sys-apps/sandbox-2.6*
 =sys-apps/shadow-4.2*
 =sys-apps/sysvinit-2.88*
-=sys-apps/util-linux-2.24*
-=sys-auth/nss-pam-ldapd-0.8*
+=sys-apps/util-linux-2.28*
+=sys-auth/nss-pam-ldapd-0.9*
 =sys-auth/nss_ldap-265*
 =sys-auth/pam_ldap-186*
 =sys-auth/pambase-2015*
