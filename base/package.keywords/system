@@ -62,6 +62,7 @@
 =sys-apps/sandbox-2.5*
 =sys-apps/sandbox-2.6*
 =sys-apps/shadow-4.2*
+=sys-apps/smartmontools-6.5*
 =sys-apps/sysvinit-2.88*
 =sys-apps/util-linux-2.28*
 =sys-auth/nss-pam-ldapd-0.9*
