@@ -10,3 +10,4 @@ sys-fs/udev extras gudev
 =app-emulation/lxc-0.9* -python python_targets_python3_2
 sys-libs/talloc python
 net-fs/cifs-utils acl ads
+sys-boot/grub multislot
