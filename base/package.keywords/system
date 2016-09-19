@@ -27,7 +27,7 @@
 =dev-perl/Authen-Libwrap-0.220*
 =dev-perl/Crypt-OpenSSL-DSA-0.150*
 =dev-perl/Getopt-GUI-Long-0.930*
-=dev-perl/Net-DNS-SEC-0.220*
+=dev-perl/Net-DNS-SEC-1.20*
 =dev-python/pycrypto-2.5*
 =dev-python/pyelftools-0.21*
 =dev-python/pymountboot-0.2*
@@ -38,6 +38,7 @@
 =dev-vcs/git-2.9*
 =net-dns/dnrd-2.20*
 =net-dns/dnssec-tools-1.14*
+=net-dns/dnssec-tools-2.2*
 =net-fs/nfs4-acl-tools-0.3*
 =net-libs/gnutls-3.4*
 =net-libs/libtirpc-0.2.4*
