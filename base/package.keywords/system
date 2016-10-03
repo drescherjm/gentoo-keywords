@@ -103,6 +103,7 @@ app-portage/portage-utils
 app-portage/ufed
 app-shells/bash-completion
 net-analyzer/nagios-check_glsa2
+sys-apps/apply-default-acl
 sys-apps/gptfdisk
 sys-apps/hdparm
 sys-apps/hwids
