@@ -6,6 +6,7 @@ kde-frameworks/breeze-icons:5
 kde-frameworks/extra-cmake-modules:5
 kde-frameworks/frameworkintegration:5
 kde-frameworks/kactivities:5
+kde-frameworks/kactivities-stats:5
 kde-frameworks/kapidox:5
 kde-frameworks/karchive:5
 kde-frameworks/kauth:5
@@ -58,6 +59,7 @@ kde-frameworks/ktexteditor:5
 kde-frameworks/ktextwidgets:5
 kde-frameworks/kunitconversion:5
 kde-frameworks/kwallet:5
+kde-frameworks/kwayland:5
 kde-frameworks/kwidgetsaddons:5
 kde-frameworks/kwindowsystem:5
 kde-frameworks/kxmlgui:5
