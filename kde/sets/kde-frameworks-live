@@ -2,9 +2,11 @@
 ~kde-frameworks/baloo-9999
 ~kde-frameworks/bluez-qt-9999
 ~kde-frameworks/breeze-icons-9999
+~kde-frameworks/breeze-icons-rcc-9999
 ~kde-frameworks/extra-cmake-modules-9999
 ~kde-frameworks/frameworkintegration-9999
 ~kde-frameworks/kactivities-9999
+~kde-frameworks/kactivities-stats-9999
 ~kde-frameworks/kapidox-9999
 ~kde-frameworks/karchive-9999
 ~kde-frameworks/kauth-9999
@@ -57,6 +59,7 @@
 ~kde-frameworks/ktextwidgets-9999
 ~kde-frameworks/kunitconversion-9999
 ~kde-frameworks/kwallet-9999
+~kde-frameworks/kwayland-9999
 ~kde-frameworks/kwidgetsaddons-9999
 ~kde-frameworks/kwindowsystem-9999
 ~kde-frameworks/kxmlgui-9999

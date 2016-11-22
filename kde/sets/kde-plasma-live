@@ -1,14 +1,14 @@
 ~kde-plasma/bluedevil-9999
 ~kde-plasma/breeze-9999
+~kde-plasma/breeze-grub-9999
 ~kde-plasma/breeze-gtk-9999
+~kde-plasma/breeze-plymouth-9999
 ~kde-plasma/kactivitymanagerd-9999
 ~kde-plasma/kde-cli-tools-9999
 ~kde-plasma/kde-gtk-config-9999
 ~kde-plasma/kdecoration-9999
 ~kde-plasma/kdeplasma-addons-9999
 ~kde-plasma/kgamma-9999
-~kde-plasma/khelpcenter-9999
-~kde-plasma/khotkeys-9999
 ~kde-plasma/kinfocenter-9999
 ~kde-plasma/kmenuedit-9999
 ~kde-plasma/kscreen-9999
@@ -16,7 +16,6 @@
 ~kde-plasma/ksshaskpass-9999
 ~kde-plasma/ksysguard-9999
 ~kde-plasma/kwallet-pam-9999
-~kde-plasma/kwayland-9999
 ~kde-plasma/kwayland-integration-9999
 ~kde-plasma/kwin-9999
 ~kde-plasma/kwrited-9999
@@ -26,7 +25,6 @@
 ~kde-plasma/oxygen-9999
 ~kde-plasma/plasma-desktop-9999
 ~kde-plasma/plasma-integration-9999
-~kde-plasma/plasma-mediacenter-9999
 ~kde-plasma/plasma-meta-9999
 ~kde-plasma/plasma-nm-9999
 ~kde-plasma/plasma-pa-9999
