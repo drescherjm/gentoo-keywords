@@ -1,9 +1,11 @@
+#=sys-fs/udev-init-scripts-30*
 =app-crypt/truecrypt-7.1*
 =dev-libs/libev-4.18*
 =net-fs/autofs-5*
 =net-fs/cifs-utils-6.4*
 =net-fs/nfs-utils-1.3*
 =net-nds/rpcbind-0.2*
+=sys-block/megacli-8.07.14*
 =sys-block/thin-provisioning-tools-0.2*
 =sys-fs/aufs-util4-0*
 =sys-fs/btrfs-progs-4.7*
@@ -17,7 +19,6 @@
 =sys-fs/udev-229*
 =sys-fs/udev-init-scripts-27*
 =sys-fs/udev-init-scripts-29*
-#=sys-fs/udev-init-scripts-30*
 =sys-fs/udisks-1.0*
 =sys-fs/udisks-2.1*
 =sys-fs/xfsdump-3.2*
