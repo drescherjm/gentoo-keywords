@@ -8,7 +8,7 @@
 =sys-block/megacli-8.07.14*
 =sys-block/thin-provisioning-tools-0.2*
 =sys-fs/aufs-util4-0*
-=sys-fs/btrfs-progs-4.7*
+=sys-fs/btrfs-progs-4.8*
 =sys-fs/cryptsetup-1.0*
 =sys-fs/dd-rescue-1.46*
 =sys-fs/ddrescue-1.21*
