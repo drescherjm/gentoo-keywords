@@ -8,6 +8,7 @@
 =net-analyzer/nrpe-2.15*
 =net-print/cups-pdf-3.0*
 =sys-apps/lshw-02.17b*
+=sys-process/criu-2.8*
 =sys-process/htop-1.0*
 app-antivirus/clamav-unofficial-sigs
 app-benchmarks/filebench
