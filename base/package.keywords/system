@@ -1,4 +1,7 @@
 #=net-nds/smbldap-tools-0.9*
+#=sys-apps/kmod-18*
+#=sys-apps/openrc-0.17*
+#=sys-apps/portage-2.2* **
 =app-admin/eclean-kernel-0.4*
 =app-admin/eselect-1.4*
 =app-admin/hddtemp-0.3* **
@@ -41,7 +44,7 @@
 =net-dns/dnssec-tools-2.2*
 =net-fs/nfs4-acl-tools-0.3*
 =net-libs/gnutls-3.4*
-=net-libs/libtirpc-0.2.4*
+=net-libs/libtirpc-1.0*
 =net-libs/neon-0.29.6*
 =net-libs/socket_wrapper-1.1*
 =net-misc/netifrc-0.1*
@@ -54,12 +57,9 @@
 =sys-apps/debianutils-4.7*
 =sys-apps/diffutils-3.3*
 =sys-apps/gentoo-functions-0.7*
-=sys-apps/kmod-18*
 =sys-apps/lm_sensors-3.3*
 =sys-apps/makedev-3.23*
 =sys-apps/net-tools-1.60*
-=sys-apps/openrc-0.17*
-=sys-apps/portage-2.2* **
 =sys-apps/sandbox-2.5*
 =sys-apps/sandbox-2.6*
 =sys-apps/shadow-4.2*
@@ -77,7 +77,6 @@
 =sys-devel/distcc-3.2* **
 =sys-devel/flex-2.5*
 =sys-devel/gcc-4.9*
-=sys-kernel/genkernel-3.4* **
 =sys-kernel/genkernel-3.5.0* **
 =sys-libs/cracklib-2.9*
 =sys-libs/db-4.8*
@@ -113,7 +112,6 @@ sys-devel/gcc-config
 sys-devel/gcc:4.9
 sys-devel/gdb
 sys-devel/icecream
-sys-kernel/genkernel-next
 sys-kernel/genkernel-next **
 sys-kernel/gentoo-sources
 sys-kernel/linux-headers
