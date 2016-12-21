@@ -1,3 +1,4 @@
+#=app-emulation/lxc-1.0*
 #=net-nds/smbldap-tools-0.9*
 #=sys-apps/kmod-18*
 #=sys-apps/openrc-0.17*
@@ -11,7 +12,6 @@
 =app-admin/webmin-1.791* **
 =app-arch/cfv-1.18*
 =app-arch/xz-utils-5.0*
-=app-emulation/lxc-1.0*
 =app-misc/c_rehash-1.7*
 =app-misc/pax-utils-0.7*
 =app-portage/elogv-0.7*
@@ -21,7 +21,7 @@
 =app-shells/bash-completion-2.2*
 =app-shells/gentoo-bashcomp-2014*
 =dev-db/lmdb-0.9*
-=dev-lang/perl-5.20*
+=dev-lang/perl-5.22*
 =dev-libs/glib-2.32*
 =dev-libs/gmp-5.0.2*
 =dev-libs/libgcrypt-1.5*
@@ -36,7 +36,7 @@
 =dev-python/pymountboot-0.2*
 =dev-python/setuptools-20*
 =dev-util/ccache-3.2*
-=dev-util/cmake-3.5*
+=dev-util/cmake-3.6*
 =dev-util/pkgconfig-0.28*
 =dev-vcs/git-2.9*
 =net-dns/dnrd-2.20*
