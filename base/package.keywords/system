@@ -43,6 +43,7 @@
 =net-dns/dnrd-2.20*
 =net-dns/dnssec-tools-1.14*
 =net-dns/dnssec-tools-2.2*
+=net-dns/libidn2-0.16*
 =net-fs/nfs4-acl-tools-0.3*
 =net-libs/gnutls-3.5*
 =net-libs/libtirpc-1.0*
