@@ -1,4 +1,7 @@
-sci-libs/dcmtk::jmd-gentoo-main
-sci-libs/gdcm
+=media-libs/charls-1.0
 =sci-libs/itk-4.2*
 =sci-libs/vtk-5.10*
+=sci-libs/vtk-7.1*
+sci-libs/dcmtk::imaging
+sci-libs/dcmtk::jmd-gentoo-main
+sci-libs/gdcm
