@@ -12,6 +12,7 @@
 =app-admin/webmin-1.791* **
 =app-arch/cfv-1.18*
 =app-arch/xz-utils-5.2*
+=app-crypt/rhash-1.3*
 =app-misc/c_rehash-1.7*
 =app-misc/pax-utils-1.2*
 =app-portage/elogv-0.7*
