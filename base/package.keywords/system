@@ -106,6 +106,7 @@ app-admin/webmin::jmd-gentoo-main
 app-portage/portage-utils
 app-portage/ufed
 app-shells/bash-completion
+dev-util/stressapptest
 net-analyzer/nagios-check_glsa2
 sys-apps/apply-default-acl
 sys-apps/gptfdisk
