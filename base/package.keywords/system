@@ -81,13 +81,14 @@
 =sys-devel/distcc-3.2* **
 =sys-devel/flex-2.5*
 =sys-devel/gcc-4.9*
+=sys-devel/gcc-6.4*
 =sys-kernel/genkernel-3.5.0* **
-=sys-kernel/linux-firmware-20161205*
+=sys-kernel/linux-firmware-20170622*
 =sys-libs/cracklib-2.9*
 =sys-libs/db-4.8*
 =sys-libs/efivar-0.20*
 =sys-libs/efivar-27*
-=sys-libs/glibc-2.21*
+=sys-libs/glibc-2.23*
 =sys-libs/libstdc++-v3-3.3*
 =sys-libs/nss_wrapper-1.0*
 =sys-libs/pam-1.2.1*
