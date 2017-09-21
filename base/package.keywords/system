@@ -101,7 +101,7 @@
 =virtual/pam-0*
 =virtual/pkgconfig-0*
 app-admin/syslog-ng
-app-admin/webmin::jmd-gentoo-main
+app-admin/webmin
 app-portage/portage-utils
 app-portage/ufed
 app-shells/bash-completion
