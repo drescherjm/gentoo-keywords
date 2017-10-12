@@ -1,6 +1,7 @@
 #=app-emulation/lxc-1.0*
 #=net-nds/smbldap-tools-0.9*
 #=sys-apps/kmod-18*
+#=sys-apps/openrc-0.17*
 #=sys-apps/portage-2.2* **
 =app-admin/eclean-kernel-0.4*
 =app-admin/eselect-1.4*
@@ -96,6 +97,7 @@
 =sys-libs/uid_wrapper-1.1*
 =sys-libs/zlib-1.2*
 =sys-power/nut-2.7*
+=sys-power/upower-0.99*
 =virtual/libgudev-208*
 =virtual/libgudev-230*
 =virtual/libintl-0*
