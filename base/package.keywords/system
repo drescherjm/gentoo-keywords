@@ -36,7 +36,7 @@
 =dev-python/pycrypto-2.6*
 =dev-python/pyelftools-0.24*
 =dev-python/pymountboot-0.2*
-=dev-python/setuptools-35*
+=dev-python/setuptools-36.7*
 =dev-util/ccache-3.3*
 =dev-util/cmake-3.8*
 =dev-util/pkgconfig-0.28*
