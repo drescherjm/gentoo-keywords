@@ -40,6 +40,7 @@
 =dev-util/ccache-3.3*
 =dev-util/cmake-3.8*
 =dev-util/pkgconfig-0.28*
+=dev-util/shadowman-2
 =dev-vcs/git-2.13*
 =net-dns/dnrd-2.20*
 =net-dns/dnssec-tools-1.14*
