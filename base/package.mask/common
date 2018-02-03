@@ -1,6 +1,2 @@
-#=app-emulation/lxc-1.1*
-=net-fs/autofs-5.1.1-r1*
-=sys-kernel/gentoo-sources-4.7.0*
-=sys-kernel/gentoo-sources-4.7.1*
-#=sys-kernel/gentoo-sources-4.7.2*
-#>=sys-apps/openrc-0.23
+<sys-kernel/gentoo-sources-4.14.0
+>=sys-kernel/gentoo-sources-4.15.0
