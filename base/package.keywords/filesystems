@@ -8,7 +8,7 @@
 =sys-block/megacli-8.07.14*
 =sys-block/thin-provisioning-tools-0.2*
 =sys-fs/aufs-util4-0*
-=sys-fs/btrfs-progs-4.13*
+=sys-fs/btrfs-progs-4.14*
 =sys-fs/cryptsetup-1.0*
 =sys-fs/dd-rescue-1.46*
 =sys-fs/ddrescue-1.21*
@@ -22,10 +22,10 @@
 =sys-fs/udisks-2.1*
 =sys-fs/xfsdump-3.2*
 =sys-fs/xfsprogs-3.2*
-=sys-fs/zfs-0.6* **
+=sys-fs/zfs-0.7* **
 =sys-fs/zfs-auto-snapshot-9999 **
-=sys-fs/zfs-kmod-0.6* **
-=sys-kernel/spl-0.6* **
+=sys-fs/zfs-kmod-0.7* **
+=sys-kernel/spl-0.7* **
 =sys-libs/e2fsprogs-libs-1.43*
 =sys-process/procps-3.3.9*
 =virtual/udev-217*
