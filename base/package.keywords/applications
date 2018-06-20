@@ -15,3 +15,4 @@ app-benchmarks/filebench
 app-shells/hstr
 sci-libs/atlas
 sys-apps/progress
+=net-misc/putty-0.70*
