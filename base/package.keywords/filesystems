@@ -1,4 +1,3 @@
-#=sys-fs/udev-init-scripts-30*
 =app-crypt/truecrypt-7.1*
 =dev-libs/libev-4.18*
 =net-fs/autofs-5*
@@ -10,13 +9,17 @@
 =sys-fs/aufs-util4-0*
 =sys-fs/btrfs-progs-4.14*
 =sys-fs/cryptsetup-1.0*
-=sys-fs/dd-rescue-1.46*
 =sys-fs/ddrescue-1.21*
+=sys-fs/dd-rescue-1.46*
 =sys-fs/e2fsprogs-1.43*
+=sys-fs/eudev-3.2*
+sys-fs/flashcache
+sys-fs/lsscsi
 =sys-fs/lvm2-2.02*
 =sys-fs/mdadm-3.4*
 =sys-fs/multipath-tools-0.4*
 =sys-fs/udev-229*
+#=sys-fs/udev-init-scripts-30*
 =sys-fs/udev-init-scripts-32*
 =sys-fs/udisks-1.0*
 =sys-fs/udisks-2.1*
@@ -29,5 +32,3 @@
 =sys-libs/e2fsprogs-libs-1.43*
 =sys-process/procps-3.3.9*
 =virtual/udev-217*
-sys-fs/flashcache
-sys-fs/lsscsi
