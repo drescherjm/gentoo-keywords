@@ -31,3 +31,4 @@
 =virtual/udev-217*
 sys-fs/flashcache
 sys-fs/lsscsi
+=sys-fs/eudev-3.2*
