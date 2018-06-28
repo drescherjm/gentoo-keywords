@@ -1,0 +1,22 @@
+--- mythtv/programs/mythbackend/upnpcdstv.cpp.orig	2018-01-16 08:43:29.130660236 -0500
++++ mythtv/programs/mythbackend/upnpcdstv.cpp	2018-01-16 08:48:08.582652549 -0500
+@@ -1063,8 +1063,18 @@
+         URIBase.setHost(m_mapBackendIp[sHostName]);
+         URIBase.setPort(m_mapBackendPort[sHostName]);
+ 
++	QString strTitle = sTitle;
++
++	if (!sSubtitle.isEmpty()) {
++	   strTitle += ": " + sSubtitle;
++	}
++
++	if (!sDescription.isEmpty()) {
++	   strTitle += " - " + sDescription;
++	}
++
+         CDSObject *pItem = CDSObject::CreateVideoItem( CreateIDString(sRequestId, "Recording", nRecordedId),
+-                                                       sTitle,
++                                                       strTitle,
+                                                        pRequest->m_sParentId );
+ 
+         // Only add the reference ID for items which are not in the
