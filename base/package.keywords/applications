@@ -17,3 +17,4 @@ sci-libs/atlas
 sys-apps/progress
 =sys-process/criu-3.6*
 =sys-process/htop-2.1*
+app-admin/spectre-meltdown-checker

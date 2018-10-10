@@ -3,6 +3,7 @@
 =app-admin/hddtemp-0.3* **
 =app-admin/hddtemp-0.4*
 =app-admin/logrotate-3.9*
+app-admin/spectre-meltdown-checker
 =app-admin/sudo-1.8*
 app-admin/syslog-ng
 app-admin/webmin
