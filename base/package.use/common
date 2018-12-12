@@ -12,3 +12,4 @@ sys-libs/talloc python
 net-fs/cifs-utils acl ads
 sys-boot/grub multislot
 sys-fs/udev static-libs
+app-text/asciidoc PYTHON_SINGLE_TARGET: python2_7
