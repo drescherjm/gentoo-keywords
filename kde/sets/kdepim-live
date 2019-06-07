@@ -7,7 +7,6 @@
 ~kde-apps/akonadi-search-9999
 ~kde-apps/akonadiconsole-9999
 ~kde-apps/akregator-9999
-~kde-apps/blogilo-9999
 ~kde-apps/calendarjanitor-9999
 ~kde-apps/calendarsupport-9999
 ~kde-apps/eventviews-9999
@@ -26,9 +25,9 @@
 ~kde-apps/kdepim-apps-libs-9999
 ~kde-apps/kdepim-meta-9999
 ~kde-apps/kdepim-runtime-9999
-~kde-apps/kholidays-9999
 ~kde-apps/kidentitymanagement-9999
 ~kde-apps/kimap-9999
+~kde-apps/kitinerary-9999
 ~kde-apps/kldap-9999
 ~kde-apps/kleopatra-9999
 ~kde-apps/kmail-9999
@@ -42,6 +41,8 @@
 ~kde-apps/kontactinterface-9999
 ~kde-apps/korganizer-9999
 ~kde-apps/kpimtextedit-9999
+~kde-apps/kpkpass-9999
+~kde-apps/ksmtp-9999
 ~kde-apps/libgravatar-9999
 ~kde-apps/libkdepim-9999
 ~kde-apps/libkgapi-9999
@@ -55,4 +56,3 @@
 ~kde-apps/pim-data-exporter-9999
 ~kde-apps/pim-sieve-editor-9999
 ~kde-apps/pimcommon-9999
-~kde-apps/syndication-9999

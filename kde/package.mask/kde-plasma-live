@@ -6,6 +6,8 @@
 ~kde-plasma/breeze-grub-9999
 ~kde-plasma/breeze-gtk-9999
 ~kde-plasma/breeze-plymouth-9999
+~kde-plasma/discover-9999
+~kde-plasma/drkonqi-9999
 ~kde-plasma/kactivitymanagerd-9999
 ~kde-plasma/kde-cli-tools-9999
 ~kde-plasma/kde-gtk-config-9999
@@ -25,8 +27,10 @@
 ~kde-plasma/kwrited-9999
 ~kde-plasma/libkscreen-9999
 ~kde-plasma/libksysguard-9999
+~kde-plasma/libkworkspace-9999
 ~kde-plasma/milou-9999
 ~kde-plasma/oxygen-9999
+~kde-plasma/plasma-browser-integration-9999
 ~kde-plasma/plasma-desktop-9999
 ~kde-plasma/plasma-integration-9999
 ~kde-plasma/plasma-meta-9999
@@ -42,3 +46,5 @@
 ~kde-plasma/sddm-kcm-9999
 ~kde-plasma/systemsettings-9999
 ~kde-plasma/user-manager-9999
+~kde-plasma/xdg-desktop-portal-kde-9999
+~kde-plasma/xembed-sni-proxy-9999
