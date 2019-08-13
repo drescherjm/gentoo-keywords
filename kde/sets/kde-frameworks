@@ -32,6 +32,7 @@ kde-frameworks/kemoticons:5
 kde-frameworks/kfilemetadata:5
 kde-frameworks/kglobalaccel:5
 kde-frameworks/kguiaddons:5
+kde-frameworks/kholidays:5
 kde-frameworks/khtml:5
 kde-frameworks/ki18n:5
 kde-frameworks/kiconthemes:5
@@ -39,6 +40,7 @@ kde-frameworks/kidletime:5
 kde-frameworks/kimageformats:5
 kde-frameworks/kinit:5
 kde-frameworks/kio:5
+kde-frameworks/kirigami:5
 kde-frameworks/kitemmodels:5
 kde-frameworks/kitemviews:5
 kde-frameworks/kjobwidgets:5
@@ -70,7 +72,10 @@ kde-frameworks/networkmanager-qt:5
 kde-frameworks/oxygen-icons:5
 kde-frameworks/plasma:5
 kde-frameworks/prison:5
+kde-frameworks/purpose:5
+kde-frameworks/qqc2-desktop-style:5
 kde-frameworks/solid:5
 kde-frameworks/sonnet:5
+kde-frameworks/syndication:5
 kde-frameworks/syntax-highlighting:5
 kde-frameworks/threadweaver:5

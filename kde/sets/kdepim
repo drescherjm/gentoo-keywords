@@ -8,7 +8,6 @@ kde-apps/akonadi-notes
 kde-apps/akonadi-search
 kde-apps/akonadiconsole
 kde-apps/akregator
-kde-apps/blogilo
 kde-apps/calendarjanitor
 kde-apps/calendarsupport
 kde-apps/eventviews
@@ -22,13 +21,14 @@ kde-apps/kblog
 kde-apps/kcalcore
 kde-apps/kcalutils
 kde-apps/kcontacts
+kde-apps/kdav
 kde-apps/kdepim-addons
 kde-apps/kdepim-apps-libs
 kde-apps/kdepim-meta
 kde-apps/kdepim-runtime
-kde-apps/kholidays
 kde-apps/kidentitymanagement
 kde-apps/kimap
+kde-apps/kitinerary
 kde-apps/kldap
 kde-apps/kleopatra
 kde-apps/kmail
@@ -42,8 +42,11 @@ kde-apps/kontact
 kde-apps/kontactinterface
 kde-apps/korganizer
 kde-apps/kpimtextedit
+kde-apps/kpkpass
+kde-apps/ksmtp
 kde-apps/libgravatar
 kde-apps/libkdepim
+kde-apps/libkgapi
 kde-apps/libkleo
 kde-apps/libksieve
 kde-apps/libktnef
@@ -53,6 +56,4 @@ kde-apps/mbox-importer
 kde-apps/messagelib
 kde-apps/pim-data-exporter
 kde-apps/pim-sieve-editor
-kde-apps/pim-storage-service-manager
 kde-apps/pimcommon
-kde-apps/syndication
